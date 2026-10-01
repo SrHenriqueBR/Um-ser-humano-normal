@@ -41,3 +41,13 @@ Fonte de 16 a 28 px, tema papel ou noite, índice e botões anterior/próximo. O
 - `chapters.js`: capítulos completos do livro.
 
 O site funciona em subdiretórios, incluindo GitHub Pages. Não exige npm, chaves de API, banco de dados ou etapa de build.
+
+## Edição visual importada
+
+O site contém 124 artes originais, sendo 116 imagens associadas a 95 capítulos (numeração entre 2 e 98) e 8 extras sem número confirmado. Os capítulos 1, 16 e 96 não foram localizados com numeração confirmada. A apresentação de Henrique e a cena do churrasco permanecem nos extras, sem serem declaradas capítulos 1 e 16.
+
+Consulte `CATALOGO.md` para a correspondência entre os arquivos originais e o site. Várias artes do mesmo capítulo podem ser versões alternativas, não páginas sequenciais. O leitor mantém todas acessíveis, sem escolher uma versão canônica. O capítulo 87 contém diversas partes e páginas.
+
+Imagens não são transcrições do manuscrito. O botão de ampliação e o controle de zoom permitem ler os balões no celular. As imagens mantêm sua resolução original. Só a arte selecionada é carregada, evitando baixar a coleção inteira de uma vez.
+
+`BOOK_CHAPTERS` admite `number` e `images: [{src, title, width, height}]`. `BOOK_EXTRAS` mantém as artes não numeradas fora da sequência principal. Os links `#ler/capitulo-27`, por exemplo, abrem o capítulo correspondente. O salvamento inclui capítulo, arte, posição de leitura e preferências.
