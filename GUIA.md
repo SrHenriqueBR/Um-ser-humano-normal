@@ -1,6 +1,6 @@
 # Um ser humano normal? — site do livro
 
-Site estático em português, sem dependências ou serviços externos. A capa original “Talvez a Vida Seja Especial” é exibida inteira em `assets/capa.webp`, otimizada para a web. O texto disponível é uma apresentação baseada na sinopse do autor; não há capítulos fictícios.
+Site estático em português, sem dependências ou serviços externos. A capa original “Talvez a Vida Seja Especial” é exibida inteira em `assets/capa.webp`, otimizada para a web. O leitor usa uma edição híbrida: capítulos em texto e artes originais no mesmo fluxo. Os capítulos antigos que existiam apenas como páginas visuais receberam narrativa reconstruída a partir dessas artes e do cânone da obra, preservando a sequência já publicada.
 
 ## Abrir localmente
 
