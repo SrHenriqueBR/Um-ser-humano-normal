@@ -1,8 +1,8 @@
 # Catálogo das artes importadas
 
 124 imagens: 116 associadas a 95 capítulos e 8 extras sem numeração confirmada.
-As imagens são as artes originais, convertidas para WebP na resolução integral. Não são uma transcrição do manuscrito.
-Não foram localizados arquivos com numeração confirmada para os capítulos 1, 16 e 96.
+As imagens são as artes originais, convertidas para WebP na resolução integral. O leitor do site agora combina narrativa em texto com essas artes; para os capítulos antigos cujo manuscrito corrido não estava disponível no repositório, a narrativa foi reconstruída de forma fiel a partir das páginas visuais e do cânone da obra.
+Não foram localizados capítulos com numeração confirmada para 1 e 16. O capítulo 96 foi incorporado em texto.
 
 Quando há mais de uma arte para um capítulo, todas são preservadas na ordem de criação. Isso não declara qual versão é canônica. O capítulo 87 reúne partes e páginas.
 
