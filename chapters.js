@@ -4,7 +4,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-2",
     "number": 2,
     "title": "O Número no Celular",
-    "paragraphs": [],
+    "paragraphs": [
+      "Na manhã seguinte ao encontro com Hyejin, Henrique descobriu que o número salvo no celular era muito mais perigoso para sua concentração do que qualquer jogo. Ele checava a tela a cada poucos minutos até finalmente receber resposta. A conversa começou com brincadeiras sobre a bicicleta, o quase acidente e o improvisado serviço de guia turístico. Hyejin respondia no mesmo tom, e aquilo tornava tudo estranhamente fácil. Felipe e Letícia perceberam rápido demais que havia uma garota envolvida e transformaram o café da manhã em interrogatório familiar.",
+      "Entre trabalho, jogos com os amigos e mensagens que atravessavam o dia, Henrique tentava tratar tudo como coincidência. Mesmo assim, pequenas coisas começavam a incomodá-lo: um sonho difícil de lembrar, uma sensação de estar sendo observado e um ponto estranho aparecendo no monitor do computador sem origem aparente. Nada parecia suficiente para chamar de sobrenatural. Pelo menos ainda não. Antes de dormir, ele conferiu novamente a conversa com Hyejin e percebeu que, sem notar, já esperava pela próxima mensagem."
+],
     "images": [
       {
         "src": "assets/chapters/art-013.webp",
@@ -18,7 +21,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-3",
     "number": 3,
     "title": "Um Convite Nada Discreto",
-    "paragraphs": [],
+    "paragraphs": [
+      "Hyejin não demorou a surpreendê-lo com um convite direto para sair outra vez. Henrique tentou agir como se fosse apenas um passeio, mas Letícia, Felipe e os amigos não compraram a encenação por um segundo. No parque, os dois conversaram sobre coisas simples, riram da primeira confusão com a bicicleta e descobriram que ficar juntos sem um grande plano era mais confortável do que Henrique esperava. Quando percebeu que Hyejin tinha gostado de uma pulseira, ele a comprou sem transformar o gesto em algo maior do que precisava ser.",
+      "O passeio terminou com fotos, pequenas provocações e aquela sensação de que alguma coisa estava começando antes que qualquer um dos dois tivesse coragem de dar nome. À noite, Hyejin contou que a mãe havia perguntado quem era Henrique. Ele respondeu que podia se apresentar como ciclista profissional, arrancando um 'nem pensando' imediato. No computador, porém, o estranho ponto luminoso voltou a aparecer por alguns segundos. Henrique fechou a janela, desligou o monitor e decidiu que aquilo devia ter uma explicação comum."
+],
     "images": [
       {
         "src": "assets/chapters/art-014.webp",
@@ -32,7 +38,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-4",
     "number": 4,
     "title": "Conversas Que Mudam Tudo",
-    "paragraphs": [],
+    "paragraphs": [
+      "A relação avançou mais rápido do que Henrique esperava. Depois de algumas mensagens, ele acabou conhecendo os pais de Hyejin e precisou sobreviver à história do quase atropelamento sendo contada com detalhes. O constrangimento logo virou risada, e a tarde seguiu com sorvete, caminhada e conversas que pareciam comuns até Hyejin revelar que provavelmente voltaria para a Coreia em poucos dias. A frase mudou o peso de tudo. Aquela história que mal havia começado já tinha uma data para ser separada por milhares de quilômetros.",
+      "Na despedida, Hyejin beijou o rosto de Henrique e foi embora deixando-o incapaz de decidir se estava feliz ou preocupado. De madrugada, o sonho estranho retornou: água que podia ser atravessada, uma figura distante, uma mão estendida e a imagem fragmentada de uma criança. Ao acordar, Henrique encontrou Hyejin também desperta. Os dois conversaram até quase amanhecer, e ele decidiu que, se o tempo juntos era curto, faria aqueles últimos dias valerem a pena."
+],
     "images": [
       {
         "src": "assets/chapters/art-015.webp",
@@ -46,7 +55,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-5",
     "number": 5,
     "title": "Só Mais Alguns Dias",
-    "paragraphs": [],
+    "paragraphs": [
+      "Restavam poucos dias antes da viagem de Hyejin. Henrique passou a medir o tempo sem querer: mais uma manhã significava menos uma oportunidade. Entre trabalho, amigos e a rotina em casa, ele ainda encontrava espaço para vê-la. Conheceu algumas amigas de Hyejin, virou alvo de piadas por causa da bicicleta e conseguiu arrancar de uma máquina um pequeno bicho de pelúcia que ela decidiu levar para a Coreia. No fim da tarde, os dois sentaram juntos e admitiram que a proximidade já doía justamente porque sabiam que seria interrompida.",
+      "Naquela noite, Henrique sonhou novamente. Uma criança perguntou se ele estava feliz; depois surgiu a figura escura e a sensação de uma palavra interrompida antes de ser compreendida. Ele acordou às 03:33 e recebeu, quase no mesmo instante, uma mensagem de Hyejin dizendo que também tivera um sonho estranho e que parecia estar procurando por ele. Mais tarde, uma pasta sem nome apareceu no computador de Henrique marcando zero bytes e uma hora impossível. Pela primeira vez, coincidência começou a parecer uma explicação fraca."
+],
     "images": [
       {
         "src": "assets/chapters/art-016.webp",
@@ -60,7 +72,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-6",
     "number": 6,
     "title": "Sonhos e Encontros",
-    "paragraphs": [],
+    "paragraphs": [
+      "Henrique e Hyejin compararam os sonhos. Os cenários não eram idênticos, mas a sensação era: escuridão, uma superfície parecida com água e alguém observando de longe com a mão estendida. Eles tentaram brincar com o assunto para diminuir o desconforto, mas nenhum dos dois conseguiu ignorar que havia detalhes demais em comum. No café da manhã, Letícia tratou a madrugada em chamada como romance; Felipe aproveitou para provocar o filho. Henrique preferiu não mencionar a parte em que o sonho parecia conhecê-lo.",
+      "O restante do dia voltou ao normal. Henrique se arrumou, encontrou Hyejin e passou mais algumas horas ao lado dela e de sua família. Conversas sobre futuro, responsabilidade e distância começaram a surgir com mais frequência. A despedida se aproximava, mas os dois já falavam como se aquilo não fosse necessariamente um fim. Quando voltou para casa, Henrique olhou o computador antes de dormir. Nada estranho apareceu. Mesmo assim, demorou muito para apagar a luz."
+],
     "images": [
       {
         "src": "assets/chapters/art-017.webp",
@@ -80,7 +95,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-7",
     "number": 7,
     "title": "Três Dias, Uma Nova História",
-    "paragraphs": [],
+    "paragraphs": [
+      "Com apenas três dias restantes, Henrique decidiu parar de contar o tempo em horas e começar a preenchê-lo. Ele e Hyejin visitaram lugares que nunca conheceriam do mesmo jeito sozinhos, riram de obras de arte que Henrique fingia entender e registraram fotos que pareciam pequenas demais para carregar tanta importância. Uma conversa pendente desde o dia anterior finalmente terminou em beijo. Não foi perfeito nem cinematográfico para quem viveu a cena, mas foi deles.",
+      "Na despedida no aeroporto, o humor perdeu espaço para a realidade. Hyejin pediu que Henrique não desaparecesse. Ele pediu o mesmo. Prometeram avisar quando chegassem, continuar as chamadas e não transformar a distância em desculpa para desistir. Quando o avião partiu, Henrique voltou para casa sentindo que alguma coisa havia terminado e começado ao mesmo tempo. A cidade continuava igual, mas sua rotina já não era mais apenas sua."
+],
     "images": [
       {
         "src": "assets/chapters/art-020.webp",
@@ -94,7 +112,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-8",
     "number": 8,
     "title": "11.000 Quilômetros",
-    "paragraphs": [],
+    "paragraphs": [
+      "A distância ganhou número, fuso horário e rotina. O título de onze mil quilômetros parecia absurdo na tela, mas Henrique e Hyejin aprenderam a diminuí-lo em mensagens de bom-dia enviadas em horários errados, chamadas interrompidas por sono e piadas sobre quem tinha desaparecido primeiro. Felipe e Letícia acompanhavam tudo de perto, enquanto Henrique tentava conciliar trabalho, amigos e a necessidade quase automática de verificar se Hyejin estava bem.",
+      "Do outro lado, Hyejin também retomava a vida na Coreia. O relacionamento deixou de depender de passeios e passou a existir em telas, horários e pequenas escolhas. Eles começaram a entender que distância não era apenas saudade: exigia organização, paciência e confiança. Henrique ainda tinha sonhos ocasionais e pequenos glitches no computador, mas preferia pensar no que conseguia controlar. Naquele momento, isso significava continuar presente."
+],
     "images": [
       {
         "src": "assets/chapters/art-019.webp",
@@ -108,7 +129,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-9",
     "number": 9,
     "title": "Quando a Distância Vira Rotina",
-    "paragraphs": [],
+    "paragraphs": [
+      "Sem perceber, Henrique e Hyejin transformaram saudade em rotina. Havia chamadas enquanto um trabalhava e o outro tentava não dormir, refeições compartilhadas pela câmera e mensagens deixadas para serem lidas horas depois. A distância não ficou menor, mas deixou de parecer um evento extraordinário e passou a ocupar um espaço conhecido na vida dos dois.",
+      "Henrique começou a planejar o futuro de forma mais concreta. Hyejin também. Entre cansaço, diferenças de horário e pequenas discussões, os dois perceberam que amar de longe exigia menos frases grandiosas e mais constância. Quando um não podia estar presente fisicamente, encontrava outra maneira de aparecer. Aos poucos, a relação deixava de ser uma lembrança bonita de poucos dias e se tornava parte permanente da vida."
+],
     "images": [
       {
         "src": "assets/chapters/art-021.webp",
@@ -122,7 +146,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-10",
     "number": 10,
     "title": "Perto o Bastante Para Sentir",
-    "paragraphs": [],
+    "paragraphs": [
+      "A intimidade cresceu sem depender de quilômetros. Henrique fazia chamadas com Muke deitado perto dele; Hyejin dividia a tela com Memelzinha e ria das tentativas de Henrique de fingir que não estava exausto. Objetos simples começaram a ganhar significado: um lugar reservado na mesa, um horário separado para ligação, uma mensagem antes de dormir. Eram formas de abrir espaço real para alguém que ainda estava do outro lado do mundo.",
+      "Os dois também passaram a falar sobre futuro sem transformar tudo em promessa impossível. Trabalho, estudo, viagens, dinheiro e a possibilidade de se ver novamente entravam nas conversas com naturalidade. Henrique percebeu que não precisava estar ao lado de Hyejin para senti-la próxima. A distância permanecia enorme, mas o relacionamento já não cabia nela."
+],
     "images": [
       {
         "src": "assets/chapters/art-024.webp",
@@ -136,7 +163,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-11",
     "number": 11,
     "title": "O Primeiro Passo Não Parece Grande",
-    "paragraphs": [],
+    "paragraphs": [
+      "Henrique decidiu que saudade não poderia ser seu único projeto. Com currículos na mochila, procurou trabalho e conseguiu uma oportunidade em assistência técnica de celulares, computadores e eletrônicos. O salário inicial era modesto, mas significava independência e um primeiro passo para construir algo maior. Felipe aprovou a disposição; Letícia comemorou como se fosse uma promoção; Amanda aproveitou para lembrar que o irmão agora tinha menos desculpas para ficar parado.",
+      "Hyejin recebeu a notícia com orgulho. Ela também começava a enfrentar responsabilidades próprias na Coreia, e os dois passaram a tratar crescimento profissional como parte do futuro que queriam construir. Henrique sabia que uma passagem internacional ainda parecia distante, mas pela primeira vez existia um caminho mensurável entre querer e conseguir."
+],
     "images": [
       {
         "src": "assets/chapters/art-025.webp",
@@ -150,7 +180,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-12",
     "number": 12,
     "title": "Entre Horários e Saudades",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os dias passaram a ser organizados em blocos: trabalho, transporte, refeições rápidas, mensagens e chamadas sempre que os fusos permitiam. Henrique aprendia manutenção e atendimento na assistência técnica; Hyejin enfrentava uma rotina exigente na Coreia. Muitas vezes, o encontro do dia inteiro cabia em quinze minutos de vídeo e duas mensagens enviadas durante o almoço.",
+      "Mesmo cansados, começaram a poupar. Pequenos depósitos, economias em compras simples e planos anotados em aplicativos viraram símbolos concretos de um futuro compartilhado. O valor de cada transferência era menos importante que a decisão por trás dela. Entre horários e saudades, os dois estavam aprendendo que relacionamento também era logística — e que ainda assim podia continuar sendo bonito."
+],
     "images": [
       {
         "src": "assets/chapters/art-026.webp",
@@ -164,7 +197,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-13",
     "number": 13,
     "title": "Quando Não Posso Abraçar",
-    "paragraphs": [],
+    "paragraphs": [
+      "Houve dias em que a tela não bastava. Em uma chamada particularmente difícil, Hyejin chorou e Henrique percebeu a crueldade de conseguir vê-la perfeitamente sem poder atravessar o espaço e abraçá-la. Ele tentou confortá-la com palavras, enquanto do outro lado a família dela percebia o peso que a distância começava a impor.",
+      "Henrique também passou por momentos ruins no trabalho e em casa, mas os dois aprenderam a dividir fragilidade sem transformar o outro em solução para tudo. Quando não podia abraçar Hyejin, ele ficava. Quando ela não podia resolver o dia dele, escutava. Aos poucos, descobriram que presença não era sinônimo de proximidade física — embora ambos continuassem contando os meses para provar o contrário."
+],
     "images": [
       {
         "src": "assets/chapters/art-027.webp",
@@ -178,7 +214,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-14",
     "number": 14,
     "title": "O Valor das Pequenas Coisas",
-    "paragraphs": [],
+    "paragraphs": [
+      "Com o salário apertado, Henrique quis mandar algo para Hyejin. Em vez de comprar um presente caro, montou uma caixa com pequenas coisas escolhidas uma a uma: lembranças do Brasil, uma carta, fotos, doces e um pequeno dragão que tinha significado entre os dois. O orçamento exigiu escolhas, e justamente por isso o pacote parecia carregar muito mais que objetos.",
+      "Quando a caixa chegou à Coreia, Hyejin entendeu imediatamente. Ela também preparou pequenos presentes para Henrique, incluindo lembranças que pudessem ser usadas todos os dias. Os dois passaram a carregar versões parecidas de um mesmo símbolo, como se cada lado tivesse um pedaço físico do outro. Henrique concluiu que o valor das pequenas coisas não estava no preço, mas no que alguém deixava de comprar para poder dizer: pensei em você."
+],
     "images": [
       {
         "src": "assets/chapters/art-030.webp",
@@ -192,7 +231,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-15",
     "number": 15,
     "title": "Ninguém Vai Nos Separar",
-    "paragraphs": [],
+    "paragraphs": [
+      "Uma tempestade forte atingiu a região de Hyejin durante uma chamada. Trovões sempre a deixavam assustada, e Henrique percebeu a mudança em sua voz antes que ela admitisse. Sem saber como ajudar a milhares de quilômetros, pegou o violão. Contou que escrevia músicas escondido e começou a tocar uma que havia feito pensando nos dois.",
+      "A canção dizia que nem oceanos, tempo ou céu seriam suficientes para separá-los. Henrique repetiu a promessa que se tornaria uma das frases mais importantes da vida dos dois: 'Sempre vou estar aqui por você.' Hyejin chorou, mas dessa vez sorrindo. Depois recebeu a gravação e disse que dormiria ouvindo. Naquela noite, a distância ainda existia; só não parecia maior que eles."
+],
     "images": [
       {
         "src": "assets/chapters/art-031.webp",
@@ -206,7 +248,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-17",
     "number": 17,
     "title": "Dois Mundos, Um Coração",
-    "paragraphs": [],
+    "paragraphs": [
+      "O tempo e a distância começaram a testar aquilo que os primeiros meses tinham tornado fácil. Henrique e Hyejin viviam em dois países, duas rotinas e horários que quase nunca colaboravam, mas continuavam encontrando espaço um para o outro. Cada chamada precisava competir com trabalho, família, sono e responsabilidades.",
+      "Em vez de tratar isso como sinal de enfraquecimento, os dois começaram a aprender a diferença entre paixão e compromisso. Eles não precisavam passar o dia inteiro juntos para continuar sendo um casal. O que importava era voltar, explicar, ouvir e continuar escolhendo. Dois mundos seguiam separados no mapa, mas o coração de ambos já estava comprometido com uma história em comum."
+],
     "images": [
       {
         "src": "assets/chapters/art-035.webp",
@@ -220,7 +265,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-18",
     "number": 18,
     "title": "O Tempo Caminha",
-    "paragraphs": [],
+    "paragraphs": [
+      "Meses viraram anos. Henrique evoluiu profissionalmente, guardou dinheiro e continuou compondo quando precisava dizer coisas que uma mensagem não carregava. Hyejin também avançou no trabalho e mantinha uma poupança para o futuro dos dois. As chamadas ficaram menos desesperadas e mais parecidas com vida cotidiana: às vezes conversavam por horas; às vezes apenas deixavam a câmera ligada enquanto cada um fazia suas próprias coisas.",
+      "A música 'Ninguém Vai Nos Separar' continuou aparecendo nos momentos difíceis. Pequenos depósitos, fotos, planos e conversas sobre casamento começaram a ocupar espaço real. O tempo caminhava, e a relação caminhava com ele. A saudade não desapareceu, mas deixou de ser a única coisa que definia os dois."
+],
     "images": [
       {
         "src": "assets/chapters/art-036.webp",
@@ -234,7 +282,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-19",
     "number": 19,
     "title": "Quando a Distância Acabou",
-    "paragraphs": [],
+    "paragraphs": [
+      "Henrique decidiu transformar a próxima visita em surpresa. Depois de economizar e organizar a viagem, atravessou o mundo sem contar a Hyejin. Chuva, trânsito e uma tempestade atrasaram tudo, enquanto ela acreditava que teria apenas mais uma noite comum em casa. Quando ouviu o pai chegar, respondeu distraída — até olhar pelo reflexo e perceber que havia outra pessoa na porta.",
+      "Henrique estava ali. Molhado, cansado e sorrindo. Hyejin demorou alguns segundos para acreditar antes de correr para ele. O abraço carregou anos de chamadas, despedidas e promessas. Pela primeira vez em muito tempo, não havia tela, atraso de áudio ou fuso horário. A distância tinha acabado, ao menos por enquanto."
+],
     "images": [
       {
         "src": "assets/chapters/art-037.webp",
@@ -248,7 +299,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-20",
     "number": 20,
     "title": "Você É Real Mesmo",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os primeiros dias juntos na Coreia tiveram uma estranheza boa. Hyejin continuava olhando para Henrique como se precisasse confirmar que ele não desapareceria quando a chamada terminasse. Ele conheceu melhor sua família, caminhou por lugares que antes via apenas em fotos e descobriu que a energia de Hyejin pessoalmente era ainda maior do que pela tela.",
+      "A rotina ganhou detalhes que nenhuma chamada transmitia: dividir comida, segurar a mão durante uma caminhada, acordar sabendo que o outro ainda estava no mesmo país. Henrique também conheceu Ji-Hoon e outros membros da família, entrando aos poucos em uma estrutura muito maior do que o relacionamento de dois jovens. A história que havia começado em mensagens agora existia de verdade em cada gesto."
+],
     "images": [
       {
         "src": "assets/chapters/art-038.webp",
@@ -262,7 +316,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-21",
     "number": 21,
     "title": "Ninguém Interrompe",
-    "paragraphs": [],
+    "paragraphs": [
+      "A família de Hyejin observava Henrique com atenção, especialmente os parentes mais velhos. Em uma conversa séria, ele deixou claro que não estava interessado em dinheiro ou herança: queria ser capaz de cuidar da própria vida e construir algo ao lado de Hyejin. A resposta não eliminou todas as preocupações, mas conquistou respeito.",
+      "Entre encontros familiares e brincadeiras com Ji-Hoon, Henrique e Hyejin finalmente tiveram um momento sem telefone, criança, parente ou emergência interrompendo. O beijo daquela noite parecia simples, mas representava tudo que a distância havia adiado. Hyejin provocou Henrique depois, e ele percebeu que pessoalmente ela era ainda mais perigosa quando queria fazê-lo perder a vergonha."
+],
     "images": [
       {
         "src": "assets/chapters/art-039.webp",
@@ -276,7 +333,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-22",
     "number": 22,
     "title": "Pela Tela Era Mais Fácil",
-    "paragraphs": [],
+    "paragraphs": [
+      "Com a rotina da visita mais confortável, Hyejin levou Henrique para conhecer lojas, bairros e lugares que faziam parte da vida dela. Em uma loja de eletrônicos, a animação dele com equipamentos virou motivo de piada — até uma atendente elogiar seu cabelo e Hyejin descobrir que ciúme também atravessava idiomas.",
+      "O dia continuou com fotos em cabine, presentes para Muke e Memelzinha, provocações e brincadeiras com Ji-Hoon. Henrique percebia que estava conhecendo não apenas Hyejin, mas o mundo que a formou. Pela tela tudo parecia mais fácil: ninguém flertava com ele diante dela, ninguém via seu constrangimento e não havia família suficiente por perto para registrar cada momento."
+],
     "images": [
       {
         "src": "assets/chapters/art-040.webp",
@@ -290,7 +350,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-23",
     "number": 23,
     "title": "Ainda Não É Adeus",
-    "paragraphs": [],
+    "paragraphs": [
+      "A viagem começou a se aproximar do fim, e os dois tentaram não transformar cada hora em despedida antecipada. Cozinharam, saíram com a família, fizeram novas fotos e criaram pequenas tradições que pudessem carregar de volta para as chamadas. Hyejin tentou ensinar português; Henrique respondeu com brincadeiras que rapidamente se voltaram contra ele.",
+      "Por baixo do humor, havia medo. Hyejin confessou que não queria voltar a viver o relacionamento principalmente por uma tela e perguntou se aquilo seria suficiente depois de terem experimentado a vida juntos. Henrique não prometeu que seria fácil. Prometeu que continuaria escolhendo os dois. Ainda não era adeus — e eles se recusaram a agir como se fosse."
+],
     "images": [
       {
         "src": "assets/chapters/art-041.webp",
@@ -304,7 +367,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-24",
     "number": 24,
     "title": "Nossa História de Amor",
-    "paragraphs": [],
+    "paragraphs": [
+      "O relacionamento deixou de ser apenas plano e começou a assumir forma de futuro. Henrique pediu Hyejin em casamento com a mesma simplicidade teimosa com que havia atravessado quilômetros por ela: não prometendo perfeição, mas perguntando se ela queria continuar atravessando o mundo ao seu lado. A resposta veio entre lágrimas e riso.",
+      "Os anos seguintes reuniram casamento, crescimento profissional e a criação de uma pequena empresa de tecnologia voltada para resolver problemas reais. A família dos dois continuou humilde apesar das oportunidades. Uma proposta de herança feita pela avó de Hyejin serviu mais como teste de caráter do que como solução financeira, e Henrique manteve a ideia de construir o próprio caminho. O futuro, antes distante, finalmente tinha endereço, rotina e alguém esperando em casa."
+],
     "images": [
       {
         "src": "assets/chapters/art-042.webp",
@@ -318,7 +384,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-25",
     "number": 25,
     "title": "Uma Manhã Comum",
-    "paragraphs": [],
+    "paragraphs": [
+      "Por algum tempo, a vida pareceu perfeitamente normal. Henrique e Hyejin trabalhavam, discutiam contas, falavam de viagens, casa própria, filhos e de como expandir a empresa. A lista de planos crescia com coisas grandes e pequenas, e a felicidade não vinha de acontecimentos épicos, mas de café, brincadeiras, família e a sensação de terem conseguido construir aquilo que sonharam durante anos.",
+      "Foi justamente em uma manhã comum que o impossível reapareceu. Henrique percebeu pequenas chamas azuis respondendo à sua presença. Uma palavra estranha — 'Seimei' — atravessou sua mente como lembrança de algo que ele nunca vivera. Ele tentou racionalizar, esconder e seguir o dia. Mas pela primeira vez a pergunta que dava nome à história deixou de ser brincadeira: ainda era um ser humano normal?"
+],
     "images": [
       {
         "src": "assets/chapters/art-043.webp",
@@ -332,7 +401,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-26",
     "number": 26,
     "title": "Quando o Mundo Deixou de Ser Normal",
-    "paragraphs": [],
+    "paragraphs": [
+      "O céu rasgou antes que alguém entendesse o que estava acontecendo. Estruturas, criaturas e exércitos impossíveis começaram a surgir sobre cidades humanas. Anjos não eram simplesmente bons; demônios não eram apenas monstros; facções lutavam entre si e a humanidade ficou presa no meio de uma guerra que não compreendia.",
+      "Henrique deixou qualquer curiosidade sobre suas pequenas chamas em segundo plano. Sua prioridade era Hyejin, a família e qualquer pessoa que pudesse alcançar. Ruas se transformaram em rotas de fuga, cidades começaram a cair e decisões antigas demais para serem lembradas passaram a determinar quem viveria mais uma noite. O mundo não deixou de ser normal aos poucos. Ele foi arrancado da normalidade."
+],
     "images": [
       {
         "src": "assets/chapters/art-044.webp",
@@ -346,7 +418,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-27",
     "number": 27,
     "title": "Quando o Céu Sangrou",
-    "paragraphs": [],
+    "paragraphs": [
+      "A guerra chegou à casa de Henrique. Entre ruínas, fogo e sangue, ele perdeu aquilo que durante anos acreditou ser permanente. Felipe, Letícia, Amanda e os animais que faziam parte da família foram atingidos pela destruição que atravessava a cidade. Hyejin permaneceu ao lado dele enquanto a dor começava a despertar alguma coisa que nem os seres celestiais ao redor sabiam identificar.",
+      "As pequenas chamas reagiram. O nome Arcaseus surgiu fragmentado, sem contexto, e por alguns instantes Henrique sentiu força que não deveria possuir. Ainda assim, Hyejin segurou seu rosto e lembrou a única coisa que importava naquele momento: ele continuava sendo ele. Acima deles, Miguel e Lúcifer moviam peças de uma guerra muito maior. Henrique só queria sobreviver sem perder mais ninguém."
+],
     "images": [
       {
         "src": "assets/chapters/art-045.webp",
@@ -366,7 +441,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-28",
     "number": 28,
     "title": "Quando Até os Imortais Caíram",
-    "paragraphs": [],
+    "paragraphs": [
+      "Henrique e Hyejin começaram a procurar suprimentos em cidades parcialmente abandonadas. Encontraram comida, água, medicamentos e outros sobreviventes, mas também descobriram algo que destruía qualquer ilusão de invencibilidade: anjos morriam, demônios morriam e até os seres que pareciam deuses podiam cair.",
+      "Miguel sangrava e continuava lutando. Lúcifer, ferido, ainda sorria no meio do caos. Quando os dois se enfrentavam, o mundo ao redor pagava o preço. Para Henrique, aquelas batalhas deixaram clara sua própria escala. Suas chamas eram úteis para sobreviver, não para competir com entidades que quebravam montanhas. Às vezes, coragem significava apenas saber quando correr."
+],
     "images": [
       {
         "src": "assets/chapters/art-047.webp",
@@ -380,7 +458,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-29",
     "number": 29,
     "title": "Não Solta Minha Mão",
-    "paragraphs": [],
+    "paragraphs": [
+      "Uma nova onda de destruição separou grupos e transformou fuga em desespero. Henrique perdeu Hyejin de vista no pior momento possível e atravessou escombros chamando por ela, repetindo para si mesmo a promessa de não soltar sua mão mesmo quando já não conseguia alcançá-la.",
+      "Hyejin, por sua vez, recusou-se a abandonar a área sem ele. Enquanto anjos e demônios continuavam suas próprias batalhas, os dois lutavam contra algo muito mais humano: o medo de que a última conversa tivesse sido realmente a última. Quando finalmente se reencontraram, não havia espaço para discurso heroico. Apenas mãos se agarrando com força suficiente para dizer que ainda estavam ali."
+],
     "images": [
       {
         "src": "assets/chapters/art-048.webp",
@@ -394,7 +475,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-30",
     "number": 30,
     "title": "Humanos Ainda Resistiam",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os sobreviventes chegaram a uma região onde milhares de humanos ainda resistiam. Havia distribuição de alimentos, equipes improvisadas, geradores, redes de comunicação e gente comum trabalhando para manter sistemas básicos vivos. Henrique voltou a fazer aquilo que sabia: consertar equipamentos, organizar tecnologia e usar as pequenas chamas somente quando podiam realmente ajudar.",
+      "Uma notícia trouxe alívio em meio ao caos: a avó de Hyejin ainda estava viva. Ao redor deles, anjos, demônios e criaturas continuavam lutando, mas a humanidade se recusava a desaparecer em silêncio. Henrique reafirmou para si mesmo que não precisava depender da chama para ter valor. Ainda era humano. E, no fim do dia, ainda era sobre ele e Hyejin tentando continuar juntos."
+],
     "images": [
       {
         "src": "assets/chapters/art-049.webp",
