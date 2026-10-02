@@ -1014,7 +1014,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-61",
     "number": 61,
     "title": "Não Olhe Para Trás",
-    "paragraphs": [],
+    "paragraphs": [
+      "Depois do confronto no Vale das Pedras, o grupo seguiu sem olhar para trás. O Arcanjo que havia comprado tempo caiu entre destroços, e ninguém sabia se ainda estava vivo. Gula também continuava. Ferido, irritado e agora atento aos rastros humanos, Baltazar avançava com a paciência de quem sabia que a fome sempre encontrava caminho.",
+      "No percurso surgiram novamente flores brancas ligadas ao Jardim. Henrique desviou todos da área e traçou o próximo objetivo: uma barragem onde ainda poderia existir abrigo e estrutura. Davi dormia, Clara continuava falando sobre o mar, Soo-min cuidava dos mais jovens e a avó permanecia firme. O plano era simples: continuar antes que Gula ou o Jardim alcançassem o grupo."
+],
     "images": [
       {
         "src": "assets/chapters/art-082.webp",
@@ -1028,7 +1031,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-62",
     "number": 62,
     "title": "A Barragem da Fome",
-    "paragraphs": [],
+    "paragraphs": [
+      "A barragem parecia forte o bastante para resistir a enchentes, explosões e até partes da guerra. Não havia sido construída para segurar a Fome. Câmeras mostraram Gula aproximando-se pela estrada sob chuva, e o tempo para organizar a fuga desapareceu de uma vez.",
+      "Quando Baltazar chegou, Henrique usou as quatro pequenas chamas não para enfrentá-lo, mas para fechar mecanismos, travar portas e comprar segundos. Crianças e feridos foram enviados primeiro aos túneis. Hyejin permaneceu perto dele enquanto a instalação tremia. A ordem repetida por todos era a mesma: correr e não olhar para trás."
+],
     "images": [
       {
         "src": "assets/chapters/art-083.webp",
@@ -1042,7 +1048,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-63",
     "number": 63,
     "title": "Fuga Sombria na Barragem",
-    "paragraphs": [],
+    "paragraphs": [
+      "Gula rompeu a primeira barreira e entrou na barragem sorrindo. Cada porta fechada servia apenas para atrasá-lo. O grupo alcançou uma bifurcação nos túneis enquanto Henrique tentava prever qual caminho permitiria retirar todos antes que Baltazar atravessasse o concreto.",
+      "Quando a grande porta finalmente caiu, Gula estava perto o bastante para conversar. Henrique ganhou mais alguns segundos com as chamas e fugiu com Hyejin e os demais por corredores molhados, ouvindo o Pecado rir atrás deles. A barragem não o deteve. Apenas transformou a perseguição em algo pessoal."
+],
     "images": [
       {
         "src": "assets/chapters/art-084.webp",
@@ -1056,7 +1065,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-64",
     "number": 64,
     "title": "Não Deixe Ele Escolher Você",
-    "paragraphs": [],
+    "paragraphs": [
+      "Na travessia seguinte, o grupo precisou cruzar um trecho improvisado sobre água e ruínas. Crianças e feridos foram primeiro. Henrique ficou por último, segurando cabos e ajudando cada pessoa a alcançar o outro lado enquanto Hyejin implorava para que ele não fizesse nenhuma loucura.",
+      "Gula apareceu antes que Henrique terminasse. Em vez de atacar imediatamente, Baltazar demonstrou curiosidade pelo humano que insistia em escapar. As quatro chamas serviram apenas para manter o cabo e Henrique vivos por mais alguns segundos. Ele conseguiu atravessar e o grupo desapareceu na floresta. O medo já não era apenas ser caçado. Era perceber que o monstro havia começado a escolhê-lo."
+],
     "images": [
       {
         "src": "assets/chapters/art-085.webp",
@@ -1070,7 +1082,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-65",
     "number": 65,
     "title": "A Galinha Entregou o Grupo",
-    "paragraphs": [],
+    "paragraphs": [
+      "A floresta ofereceu escuridão e vegetação suficiente para esconder o grupo, desde que todos permanecessem absolutamente quietos. Por alguns minutos funcionou. Então Henriqueta decidiu que silêncio era uma sugestão e não uma regra. O som da galinha atravessou a noite no pior momento possível.",
+      "O absurdo arrancou de Henrique uma mistura de desespero e vontade de rir. Gula mudou o rumo, e todos precisaram correr de novo. Mesmo com a situação mortal, aquela pequena ave teimosa continuava viajando com eles. Em um mundo que havia perdido quase tudo, até uma galinha podia se tornar parte da família."
+],
     "images": [
       {
         "src": "assets/chapters/art-086.webp",
@@ -1084,7 +1099,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-66",
     "number": 66,
     "title": "Quando a Fome Parou de Sorrir",
-    "paragraphs": [],
+    "paragraphs": [
+      "Antes que Gula alcançasse o grupo, o céu mudou. Uma ruptura diferente se formou e algo grande o bastante para chamar atenção de anjos, demônios e do próprio Baltazar começou a se manifestar. Pela primeira vez desde que Henrique o conhecera, a Fome parou de sorrir.",
+      "Gula desviou a perseguição para observar a nova presença. Um Cavaleiro diferente, que não se comportava como os demais, apareceu no conflito e criou alguns minutos de vantagem para os sobreviventes. Henrique não confundiu aquilo com salvação. Se uma coisa fazia até Baltazar esquecer comida, provavelmente era pior."
+],
     "images": [
       {
         "src": "assets/chapters/art-087.webp",
@@ -1098,7 +1116,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-67",
     "number": 67,
     "title": "Ainda Temos Amanhã",
-    "paragraphs": [],
+    "paragraphs": [
+      "A trilha alternativa era mais lenta, mas afastava o grupo das principais forças em guerra. Hyejin percebeu que Henrique tentava colocá-la sempre atrás de si e recusou aquela lógica. Ela não era uma fraqueza nem alguém a ser guardada longe da realidade. Era sua parceira, e se precisassem correr, correriam juntos.",
+      "Enquanto isso, Gula começou a perseguir respostas sobre a presença que surgira na ruptura. O caminho ainda era incerto, mas pela primeira vez em muito tempo Henrique permitiu-se pensar na frase mais simples possível: ainda temos amanhã. Não era promessa. Era objetivo."
+],
     "images": [
       {
         "src": "assets/chapters/art-088.webp",
@@ -1118,7 +1139,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-68",
     "number": 68,
     "title": "Caminhando para o Oeste",
-    "paragraphs": [],
+    "paragraphs": [
+      "O grupo seguiu para oeste procurando uma rota para o mar e regiões com menos atividade celestial. Logo percebeu que outras pessoas caminhavam na mesma direção de maneira estranha. Não corriam, não conversavam e quase não reagiam. Apenas repetiam que 'ela está esperando'.",
+      "Uma presença diferente de Gula parecia chamar sobreviventes através de florestas e cidades abandonadas. Henrique impediu o grupo de seguir a multidão sem entender a origem do fenômeno. Proteger, ele começava a aprender, não era afastar Hyejin das decisões; era caminhar ao lado dela mesmo quando nenhum dos dois sabia para onde aquela estrada levava."
+],
     "images": [
       {
         "src": "assets/chapters/art-090.webp",
@@ -1132,7 +1156,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-69",
     "number": 69,
     "title": "Não Escute a Música",
-    "paragraphs": [],
+    "paragraphs": [
+      "A causa do movimento para oeste apareceu como música. Uma melodia distante atravessava rádios, ruas vazias e até lugares onde não deveria haver som. Pessoas afetadas começavam a caminhar em direção à origem como se alguém querido estivesse esperando por elas.",
+      "Henrique desligou qualquer aparelho capaz de reproduzir áudio e seguiu pelos trilhos. Até Gula ouviu a canção e, em vez de ser atraído como os humanos, pareceu reconhecer que havia outra presença manipulando o campo. A música parou por alguns instantes. Algo, porém, já havia começado."
+],
     "images": [
       {
         "src": "assets/chapters/art-091.webp",
@@ -1146,7 +1173,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-70",
     "number": 70,
     "title": "A Canção do Norte",
-    "paragraphs": [],
+    "paragraphs": [
+      "Para continuar se comunicando sem ouvir a melodia, Henrique adaptou equipamentos e transformou parte da rede de rádio em mensagens de texto. Milhares de sobreviventes ainda respondiam, mas alguns continuavam sendo afetados mesmo sem escutar o som diretamente. A cantora não parecia interessada especificamente em humanos; eles apenas estavam no caminho.",
+      "Nas transmissões e encontros fragmentados, surgiu uma hipótese pior: a canção tentava acordar alguém ou alguma coisa. Henrique mantinha as quatro chamas pequenas e o corpo humano, evitando gastar energia sem necessidade. A estratégia agora era seguir sem áudio e nunca responder às vozes que prometiam reencontros impossíveis."
+],
     "images": [
       {
         "src": "assets/chapters/art-092.webp",
@@ -1160,7 +1190,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-71",
     "number": 71,
     "title": "Apague as Luzes, Sobreviva à Noite",
-    "paragraphs": [],
+    "paragraphs": [
+      "À noite, o grupo se escondeu em uma construção rural e apagou todas as luzes. Uma mulher apareceu do lado de fora pedindo ajuda, dizendo que tinha visto claridade e que a filha a esperava. A aparência humana durou pouco. A criatura quebrou a entrada e obrigou todos a abandonar o abrigo sob chuva.",
+      "A fuga terminou perto de estruturas industriais e um silo, onde Henrique usou o ambiente em vez de tentar vencer pela força. O grupo escapou mais uma vez. A lição daquela noite ficou clara: nem toda voz que chama quer salvar você, e coragem às vezes é ficar em silêncio mesmo quando alguém parece implorar do outro lado da porta."
+],
     "images": [
       {
         "src": "assets/chapters/art-093.webp",
@@ -1174,7 +1207,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-72",
     "number": 72,
     "title": "Quando os Monstros Começaram a Correr",
-    "paragraphs": [],
+    "paragraphs": [
+      "Pouco depois, os monstros começaram a correr. Não atrás dos humanos — para longe de alguma coisa. Animais, criaturas infernais e seres que normalmente se atacariam avançavam todos para o sul. Henrique reconheceu o medo porque já o havia visto em pessoas demais.",
+      "No meio da fuga surgiu uma nova possibilidade: trilhos ainda utilizáveis e um trem com outros sobreviventes. O grupo embarcou enquanto o fenômeno se espalhava atrás deles. Pela primeira vez em dias, a velocidade não vinha das pernas de Henrique. Mesmo assim, ninguém conseguia responder à pergunta que importava: do que todos aqueles monstros estavam fugindo?"
+],
     "images": [
       {
         "src": "assets/chapters/art-094.webp",
@@ -1188,7 +1224,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-73",
     "number": 73,
     "title": "O Sul Desapareceu",
-    "paragraphs": [],
+    "paragraphs": [
+      "O trem trouxe algumas horas de proteção, mas as mensagens recebidas indicavam que o sul simplesmente deixara de ser uma opção. Regiões inteiras paravam de responder e uma presença desconhecida parecia empurrar tudo para novas rotas. Anjos e demônios voltaram a ocupar o céu enquanto os trilhos atravessavam o meio da guerra.",
+      "Dentro do vagão, Henrique tentou preservar uma rotina mínima para Hyejin, Soo-min, as crianças e a avó. Fora dele, a paisagem dizia outra coisa. O grupo havia passado meses escolhendo entre direções ruins. Agora algumas direções deixavam de existir."
+],
     "images": [
       {
         "src": "assets/chapters/art-095.webp",
@@ -1202,7 +1241,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-74",
     "number": 74,
     "title": "Não Existe Mais Para Onde Correr",
-    "paragraphs": [],
+    "paragraphs": [
+      "Com o norte, oeste e sul comprometidos, os sobreviventes receberam instruções para seguir pelo corredor ferroviário onde uma grande zona de evacuação estava sendo formada. O trem acelerou através de batalhas celestiais, explosões e criaturas que mal percebiam a presença humana entre forças muito maiores.",
+      "Soo-min voltou a ouvir a voz de Ji-Hoon, mas desta vez resistiu. Davi e os demais ao redor lembravam que amar quem morreu não exigia segui-lo para uma armadilha. Henrique e Hyejin mantiveram a promessa de caminhar como parceiros. Não havia mais para onde correr; restava atravessar."
+],
     "images": [
       {
         "src": "assets/chapters/art-096.webp",
@@ -1216,7 +1258,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-75",
     "number": 75,
     "title": "Onze Mil Sobreviventes",
-    "paragraphs": [],
+    "paragraphs": [
+      "A zona de evacuação reuniu aproximadamente onze mil sobreviventes. Depois de meses vendo grupos diminuírem, Henrique precisou reaprender o que significava estar cercado por tanta gente viva. Uma rede improvisada de comunicação conectou setores, famílias e equipes, criando algo parecido com uma pequena cidade em movimento.",
+      "O tamanho também era perigo. Onze mil pessoas significavam comida, barulho, medo e uma assinatura impossível de esconder de criaturas como Gula. Henrique ajudou a organizar comunicação e rotas enquanto os líderes tentavam decidir se aquele encontro era salvação ou apenas a maior concentração de alimento ainda existente."
+],
     "images": [
       {
         "src": "assets/chapters/art-097.webp",
@@ -1230,7 +1275,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-76",
     "number": 76,
     "title": "Onze Mil em Silêncio",
-    "paragraphs": [],
+    "paragraphs": [
+      "A ameaça veio de todos os lados. À frente havia uma rachadura; atrás, Gula. A floresta da música bloqueava uma direção e o rio a outra. Quando uma coluna negra começou a subir da abertura, a cantora caiu, um Cavaleiro se levantou e até Baltazar começou a recuar.",
+      "A Rede Muda orientou onze mil pessoas a se moverem sem correr, mantendo famílias juntas e evitando pânico. A música retornou mais forte e muitos precisaram se agarrar literalmente a quem estava ao lado para não seguir as vozes. Por algumas horas, um novo complexo logístico pareceu oferecer esperança. Gula, entretanto, já sabia exatamente onde encontrar comida."
+],
     "images": [
       {
         "src": "assets/chapters/art-098.webp",
@@ -1250,7 +1298,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-77",
     "number": 77,
     "title": "O Último Lugar Seguro",
-    "paragraphs": [],
+    "paragraphs": [
+      "O complexo foi tratado como o último lugar seguro. Havia portões, estoques, corredores de evacuação e planos suficientes para fazer as pessoas acreditarem novamente em amanhã. Henrique, Hyejin e os demais chegaram a compartilhar uma refeição simples e brincar com as crianças.",
+      "A ilusão terminou quando Gula alcançou o lugar. Um golpe contra as defesas mostrou que nenhuma porta construída por humanos conseguiria segurá-lo por muito tempo. A evacuação começou novamente, mas onze mil pessoas não desaparecem por um corredor. O último lugar seguro se transformou em outra armadilha."
+],
     "images": [
       {
         "src": "assets/chapters/art-100.webp",
@@ -1264,7 +1315,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-78",
     "number": 78,
     "title": "A Promessa da Janela: O Último Refúgio",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os corredores foram bloqueados durante a fuga. Soo-min tentou ajudar outros sobreviventes a atravessar e acabou nas mãos de Baltazar. Gula a segurou como se toda a vida e sofrimento dela fossem apenas parte de uma refeição, chamando-a de 'humana deliciosa' enquanto Hyejin tentava alcançar a irmã.",
+      "Henrique precisou impedir Hyejin de correr diretamente para a morte enquanto o complexo desmoronava ao redor. Soo-min, que havia sobrevivido à perda de Ji-Hoon e Min-ho, não conseguiu escapar daquela vez. A promessa de proteger todos voltou a quebrar diante de Henrique. E Gula ainda não havia terminado."
+],
     "images": [
       {
         "src": "assets/chapters/art-101.webp",
@@ -1278,7 +1332,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-79",
     "number": 79,
     "title": "Enquanto Eu Puder Escolher",
-    "paragraphs": [],
+    "paragraphs": [
+      "Baltazar alcançou Hyejin. Henrique lutou como um ser humano que já não tinha nada reservado, usando as quatro chamas, o ambiente e o próprio corpo para impedir que ela fosse levada. Não foi suficiente. Hyejin acabou mortalmente ferida e caiu nos braços dele.",
+      "Henrique tentou segurá-la no mundo apenas com palavras. Hyejin sorriu mesmo em meio à dor e disse o que ele carregaria para sempre: 'Sempre te amarei... meu amor.' A promessa antiga voltou entre os dois — enquanto pudesse escolher, ele estaria ali. Dessa vez, escolha nenhuma era capaz de impedir o fim. Quando Hyejin parou de respirar, alguma coisa dentro de Henrique perdeu o último motivo para continuar pequena."
+],
     "images": [
       {
         "src": "assets/chapters/art-102.webp",
@@ -1292,7 +1349,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-80",
     "number": 80,
     "title": "O Último Humano",
-    "paragraphs": [],
+    "paragraphs": [
+      "A morte de Hyejin não foi a única. Abrigos caíram, comboios desapareceram e a Rede Muda reduziu sua contagem de usuários até mostrar apenas um nome ativo: Henrique. A humanidade havia sido extinta. Ele era o último humano vivo, segurando o colar de Hyejin em um mundo que já não tinha ninguém para salvar.",
+      "Mesmo quebrado, Henrique atacou Baltazar. Usou ruínas, estruturas e a arrogância do próprio Pecado para finalmente matá-lo. Então ouviu uma presença que não compreendia e tomou a decisão proibida: consumiu a essência de Gula. Não a alma — a essência. O poder entrou em um corpo humano que já havia ultrapassado tudo que deveria suportar. E o primeiro verdadeiro despertar começou."
+],
     "images": [
       {
         "src": "assets/chapters/art-103.webp",
@@ -1306,7 +1366,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-81",
     "number": 81,
     "title": "O Último Homem",
-    "paragraphs": [],
+    "paragraphs": [
+      "Henrique acordou diferente. Cabelos longos negros, olhos completamente negros com pupilas azuis, pele vermelho-escura marcada por escamas, dentes pontudos, cauda e runas antigas. Três estruturas de fogo azul condensado permaneceram ao redor dele. Henrique decidiu chamá-las de Alfa, Ômega e Beta.",
+      "O poder vinha acompanhado de fome e possibilidades perigosas. Para não deixar de ser ele mesmo, Henrique criou regras: não devorar tudo que aparecesse; se tentasse matá-lo, não contava; alma não — essência sim; e não lutar contra coisa absurda de estômago vazio. A guerra continuava, mas não havia mais humanos para proteger. Ele escolheu oeste e continuou andando, levando memórias, promessas e a certeza de que ainda era Henrique."
+],
     "images": [
       {
         "src": "assets/chapters/art-104.webp",
@@ -1320,7 +1383,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-82",
     "number": 82,
     "title": "Eu Não Tenho Lado",
-    "paragraphs": [],
+    "paragraphs": [
+      "Anjos hostis, demônios, Cavaleiros e outras criaturas passaram a descobrir que o último humano não pertencia a lado algum. Henrique enfrentava quem o atacava e absorvia apenas essências quando necessário, nunca almas. A cada batalha, seu corpo aprendia e seu poder se tornava mais difícil de classificar.",
+      "Rumores começaram a chamá-lo de Devorador. Henrique não gostava do nome, mas compreendia por que surgira. Quando Ira entrou em seu caminho, o confronto levou Henrique a mais um limite e à absorção de outra essência. Mesmo com aparência cada vez menos humana, ele repetia para si mesmo que identidade não dependia da pele. Ainda era Henrique."
+],
     "images": [
       {
         "src": "assets/chapters/art-105.webp",
@@ -1334,7 +1400,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-83",
     "number": 83,
     "title": "Quanto Mais Eu Devoro",
-    "paragraphs": [],
+    "paragraphs": [
+      "Quanto mais essências Henrique assimilava, mais sentia o mundo ao redor: presenças, intenções e forças que antes passariam despercebidas. Alfa, Ômega e Beta respondiam como extensões dele, e o corpo se adaptava em vez de simplesmente acumular poder. A capacidade crescia; o medo de perder a própria medida também.",
+      "Outros Pecados e entidades começaram a procurá-lo. Luxúria provocou Henrique sobre carregar fragmentos dos inimigos derrotados, enquanto Sariel passou a observá-lo de perto e, em alguns momentos, tornou-se um aliado relutante. Henrique continuou impondo a própria regra: não tinha lado. Sobreviver e impedir quem tentasse matá-lo era suficiente."
+],
     "images": [
       {
         "src": "assets/chapters/art-106.webp",
@@ -1348,7 +1417,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-84",
     "number": 84,
     "title": "Então Venham Todos: A Ascensão de Henrique",
-    "paragraphs": [],
+    "paragraphs": [
+      "O crescimento de Henrique deixou de ser problema local. Legiões infernais foram enviadas para contê-lo e descobriram que cada combate servia de aprendizado. Sua força, velocidade e regeneração melhoravam, mas ele ainda lutava com o corpo da primeira transformação: cabelos negros, pele escamada, olhos negros de pupilas azuis, cauda e as três chamas condensadas.",
+      "Foi então que Lúcifer decidiu descer pessoalmente. Arrogante e curioso, tratou Henrique como um humano deformado que havia crescido além do permitido. Henrique conseguiu acertá-lo e fazê-lo sangrar, algo que mudou imediatamente o tom da batalha. Miguel observava à distância. A guerra acabara de encontrar um novo centro."
+],
     "images": [
       {
         "src": "assets/chapters/art-107.webp",
@@ -1362,7 +1434,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-85",
     "number": 85,
     "title": "O Humano que Fez Lúcifer Sangrar",
-    "paragraphs": [],
+    "paragraphs": [
+      "Lúcifer parou de brincar. O confronto atravessou ruínas e campos inteiros, e Henrique continuou se levantando mesmo quando a diferença de experiência parecia impossível. Por alguns instantes, ele conseguiu pressionar o caído o bastante para transformar diversão em irritação.",
+      "Então Lúcifer usou uma espada cuja função não era simplesmente matar. Ela apagava a continuação daquilo que atingia. Henrique foi atravessado e sentiu a própria existência desaparecer. Seus últimos pensamentos foram para Hyejin e para tudo que não conseguira salvar. A primeira forma de Henrique acabou ali — ou deveria ter acabado."
+],
     "images": [
       {
         "src": "assets/chapters/art-108.webp",
@@ -1388,7 +1463,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-86",
     "number": 86,
     "title": "Kaizen: O Despertar Celestial",
-    "paragraphs": [],
+    "paragraphs": [
+      "No lugar onde Henrique desapareceu, uma esfera de energia escura permaneceu. Dentro dela, alguma coisa reconstruiu seu corpo do zero. A pele escamada, a cauda e a aparência demoníaca desapareceram completamente. Surgiu um corpo humano de pele clara, forte e definido, cabelos longos brancos e olhos com esclera normal: um vermelho e outro azul.",
+      "Exatamente duas asas se abriram — uma angelical e uma de trevas. A aura negra e dourada coexistia sem se destruir, e runas muito mais antigas do que qualquer conhecimento de Miguel, Lúcifer ou Sariel cobriram seu corpo. Alfa, Ômega e Beta retornaram em novas formas de energia. Não era Arcaceus tomando Henrique. Era Henrique reconstruído em uma forma que ninguém conseguia classificar."
+],
     "images": [
       {
         "src": "assets/chapters/art-118.webp",
@@ -1414,7 +1492,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-87",
     "number": 87,
     "title": "Contemplem Meu Nome",
-    "paragraphs": [],
+    "paragraphs": [
+      "Lúcifer exigiu saber quem estava diante dele. Henrique olhou para o próprio corpo, para a guerra e para o caminho que o havia trazido até ali. Henrique continuava sendo seu começo, suas memórias e sua vida. Mas ele escolheu um nome para aquilo que havia se tornado: Kaizen.",
+      "O combate recomeçou. Kaizen mostrou que a nova forma não era apenas aumento de força; seu corpo aprendia, integrava e controlava energia com precisão inédita. Miguel alertou Lúcifer para parar de provocar algo que nenhum deles compreendia. Kaizen, porém, ainda sorria, fazia piadas e carregava Hyejin no colar. O nome mudara. A pessoa não."
+],
     "images": [
       {
         "src": "assets/chapters/art-123.webp",
@@ -1488,7 +1569,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-88",
     "number": 88,
     "title": "Kaizen Contra Miguel e Lúcifer",
-    "paragraphs": [],
+    "paragraphs": [
+      "Kaizen decidiu medir o novo corpo em vez de liberar tudo. Mesmo em torno de trinta e dois por cento, conseguiu acompanhar Lúcifer e forçou Miguel a entrar no confronto para impedir que a batalha destruísse ainda mais o mundo. Os dois irmãos, inimigos por eras, passaram a coordenar ataques contra o mesmo adversário.",
+      "Kaizen gostou da dificuldade. Pela primeira vez desde a reconstrução, velocidade, técnica e força de outros seres conseguiam pressioná-lo de verdade. Miguel admitiu que nunca havia visto algo assim mesmo depois de séculos ao lado do Pai. Lúcifer, sangrando, disse que não precisava de ajuda — e logo depois admitiu estar preocupado."
+],
     "images": [
       {
         "src": "assets/chapters/art-147.webp",
@@ -1502,7 +1586,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-89",
     "number": 89,
     "title": "Confronto Cósmico: Kaizen Contra Irmãos Celestiais",
-    "paragraphs": [],
+    "paragraphs": [
+      "A luta atravessou terras destruídas, montanhas, atmosfera e finalmente o espaço. Kaizen controlava Alfa, Ômega e Beta mesmo sem olhar diretamente para eles, enquanto Miguel e Lúcifer refinavam a coordenação. Pela primeira vez, Kaizen sentiu dor suficiente para sorrir e dizer que aquilo finalmente estava interessante.",
+      "Durante o choque de poderes, uma visão atravessou sua mente: quatro mulheres cujos rostos ele não conseguia distinguir disseram que um dia estariam ao lado dele. Kaizen não sabia quem eram. Lúcifer então mudou de estratégia e começou a citar Felipe, Letícia, Amanda e Hyejin, provocando as perdas que Henrique carregava. Kaizen deixou de sorrir."
+],
     "images": [
       {
         "src": "assets/chapters/art-148.webp",
@@ -1516,7 +1603,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-90",
     "number": 90,
     "title": "Kaizen a 58%: O Vazio Desperta",
-    "paragraphs": [],
+    "paragraphs": [
+      "Kaizen começou a aumentar a porcentagem conscientemente. Trinta e três. Trinta e cinco. Trinta e oito. Quarenta. Cada poucos pontos alteravam a pressão do campo de batalha de maneira desproporcional. Miguel exigiu que ele reduzisse energia; Lúcifer continuou provocando, usando principalmente Hyejin e os filhos que Henrique nunca teve.",
+      "Kaizen alcançou cinquenta por cento ainda dizendo que se continha. Depois continuou. Cinquenta e quatro: o Sol pareceu perder brilho. Cinquenta e cinco: demônios fracos não conseguiam permanecer de pé. Cinquenta e seis: anjos recuaram. Cinquenta e sete: o espaço começou a rachar. Quando a lembrança de Hyejin repetiu 'sempre vou estar aqui por você', Kaizen chegou a cinquenta e oito por cento."
+],
     "images": [
       {
         "src": "assets/chapters/art-149.webp",
@@ -1530,7 +1620,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-91",
     "number": 91,
     "title": "Kaizen: O Despertar dos 58%",
-    "paragraphs": [],
+    "paragraphs": [
+      "A manifestação de cinquenta e oito por cento foi sentida além da Terra. Oceanos recuaram, continentes tremeram, o espaço se deformou e mundos distantes perceberam a assinatura de Kaizen. O Vazio abriu os olhos para observá-lo. Ele próprio admitiu que não sabia o que cem por cento faria e que exatamente por isso não tentaria descobrir.",
+      "Em vez de expandir ainda mais, Kaizen começou a aprender compressão. Concentrou uma quantidade absurda de energia negra e dourada em um ponto minúsculo, transformando geração em controle. O golpe resultante obrigou Lúcifer e Miguel a defenderem juntos e deixou ambos gravemente feridos. O problema de Kaizen já não era produzir poder. Era impedir que ele destruísse tudo ao redor."
+],
     "images": [
       {
         "src": "assets/chapters/art-150.webp",
@@ -1544,7 +1637,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-92",
     "number": 92,
     "title": "Eclipse Cósmico: Queda dos Três",
-    "paragraphs": [],
+    "paragraphs": [
+      "Kaizen apresentou uma aplicação nova para Alfa, Ômega e Beta: Eclipse. As três estruturas se integraram ao fluxo do corpo e permitiram neutralizar energia externa no instante do contato, sem significar anulação ilimitada. O primeiro teste funcionou melhor do que o planejado.",
+      "Por alguns segundos, as forças de Miguel e Lúcifer foram interrompidas no meio do combate. O detalhe que Kaizen não calculou foi que os três estavam no espaço e dependiam justamente dessas energias para manter posição. Eles começaram a cair juntos. O momento foi tão absurdo que até no meio da guerra Henrique conseguiu achar graça antes de todos retomarem controle."
+],
     "images": [
       {
         "src": "assets/chapters/art-151.webp",
@@ -1558,7 +1654,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-93",
     "number": 93,
     "title": "Eclipse: Horizonte no Campo Cósmico",
-    "paragraphs": [],
+    "paragraphs": [
+      "Lúcifer respondeu com sua chama branca, uma força que não queimava matéria de maneira comum: atacava a continuação daquilo que tocava. Ela conseguiu ferir a asa de Kaizen e dificultar regeneração, provando que Eclipse não era resposta automática para tudo. Kaizen precisou desviar, estudar e adaptar.",
+      "Ele criou Eclipse: Horizonte, uma zona circular negra e dourada capaz de dobrar trajetórias e redirecionar ataques. Miguel usou Veredito para separar Kaizen de energias que julgava externas, removendo temporariamente asas e Alfa, Ômega e Beta. O resultado foi inesperado: o corpo de Kaizen reintegrou tudo como parte genuína de si. Não eram mais coisas carregadas. Eram dele."
+],
     "images": [
       {
         "src": "assets/chapters/art-152.webp",
@@ -1572,7 +1671,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-94",
     "number": 94,
     "title": "A Chegada Celestial",
-    "paragraphs": [],
+    "paragraphs": [
+      "O confronto chegou ao limite. Kaizen comprimiu novamente os cinquenta e oito por cento enquanto Miguel e Lúcifer preparavam defesas capazes de partir o campo ao redor. Seres mais fracos morriam apenas pela pressão e a realidade começava a falhar em pontos distantes. Nenhum dos três queria recuar.",
+      "Antes que o ataque final fosse liberado, uma voz atravessou tudo: 'JÁ CHEGA.' O movimento parou. Anjos se ajoelharam; demônios incapazes de suportar a presença recuaram ou perderam forma; até o Vazio afastou sua atenção. Deus havia chegado. Kaizen baixou o próprio poder por escolha e respeito, enquanto Lúcifer recebia de Henrique a provocação inevitável sobre o 'papaizinho' ter chegado para salvá-lo."
+],
     "images": [
       {
         "src": "assets/chapters/art-153.webp",
@@ -1586,7 +1688,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-95",
     "number": 95,
     "title": "A Voz Que Meu Corpo Conhece",
-    "paragraphs": [],
+    "paragraphs": [
+      "Kaizen percebeu uma coisa impossível ao ouvir Deus: seu corpo reconhecia aquela voz. Miguel e Lúcifer não compreendiam por que o antigo conjunto de runas reagia como se estivesse lembrando algo. Kaizen perguntou diretamente, sem reverência teatral, e Deus respondeu que a questão não era o que ele estava dizendo, mas o que dentro de Kaizen estava começando a lembrar.",
+      "A conversa também devolveu a Henrique a informação de que mais precisava. Hyejin havia sido recebida; seu sofrimento terminara e sua existência não havia sido simplesmente apagada. Deus deixou claro que Henrique fora real — tudo que amou, sofreu, escolheu e perdeu pertencia a ele. Havia algo antigo em sua história, mas a resposta não seria 'você nunca foi Henrique'. A guerra terminava ali; o mistério começava a mudar de forma."
+],
     "images": [
       {
         "src": "assets/chapters/art-154.webp",
@@ -1615,7 +1720,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-97",
     "number": 97,
     "title": "O Primeiro Dia no Céu",
-    "paragraphs": [],
+    "paragraphs": [
+      "No primeiro dia no Céu, Kaizen descobriu uma humilhação nova: podia quebrar dimensões, mas não conseguia criar uma simples esfera de luz que continuasse acesa sozinha. Deus insistiu que destruir era aplicar força, enquanto criar significava compreender as condições necessárias para algo permanecer depois que sua mão se afastasse.",
+      "Depois de várias tentativas, explosões pequenas e comentários de Miguel, Kaizen finalmente conseguiu manter uma luz simples. Conheceu melhor Ariel, Mariel e El, que se aproximaram dele com curiosidade e humor. Nem todos no Palácio gostavam de ver um ex-humano recebendo atenção direta do Altíssimo, mas Kaizen terminou o dia sob uma árvore com novos conhecidos, rindo como Henrique sempre rira."
+],
     "images": [
       {
         "src": "assets/chapters/art-155.webp",
@@ -1629,7 +1737,12 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-98",
     "number": 98,
     "title": "A Árvore Que Ouve o Coração",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os comentários dos anjos acabaram alcançando Kaizen: 'ele não é puro', 'o lugar dele não é no Céu', 'seu corpo é da Terra'. Em vez de reagir, ele respondeu apenas 'eu sei' e caminhou até se perder em uma floresta celestial que quase ninguém conseguia encontrar. A Árvore da Vida se revelou não por causa de seu poder, mas por reconhecer a tristeza que ele carregava.",
+      "Kaizen adormeceu junto às raízes e sonhou com Hyejin. Chorando, pediu para vê-la outra vez. Ela sorriu e respondeu: 'Vamos nos ver de novo, meu amorzinho.' Depois vieram lembranças do casamento e quatro silhuetas femininas dizendo que um dia o encontrariam. Ao acordar, Kaizen estava com a cabeça no colo de Luz e, ao levantar envergonhado, esbarrou em Escuridão.",
+      "Luz e Escuridão eram irmãs gêmeas e filhas do Altíssimo. Luz era encarregada da Luz Divina, mantenedora da justiça e profundamente amada pela vida; Escuridão liderava as Trevas e havia deixado a condução do Inferno quando Lúcifer assumira aquela região. As duas preferiam a floresta criada pelo Pai como lugar de paz e proteção. Escuridão, tratada por muitos anjos como impura, reconheceu em Kaizen uma dor parecida com a sua.",
+      "Os três caminharam pelo rio, conversaram sobre conhecimento, tragédias e o que os havia levado até ali. Luz gostou do fato de Kaizen não se aproximar exigindo respostas ou fascinado por quem ela era; ele estava apenas curioso, respeitoso e até envergonhado. Escuridão se interessou pela parte mais sombria de Henrique, mas também percebeu sua gentileza e humor. Quando Miguel e Lúcifer finalmente começaram a gritar pelo nome dele pela floresta, as irmãs riram e se despediram: 'Vamos nos ver de novo, Kaizen. Foi muito legal e divertido.'"
+],
     "images": [
       {
         "src": "assets/chapters/art-156.webp",
