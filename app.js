@@ -83,7 +83,7 @@
     const row=document.createElement('button');row.className='chapter-row';row.dataset.search=(label(entry)+' '+entry.title).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
     const number=document.createElement('span');number.className='chapter-number';number.textContent=entry.number?String(entry.number).padStart(2,'0'):'◇';
     const name=document.createElement('span');name.className='chapter-name';name.textContent=entry.title;
-    const info=document.createElement('small');info.textContent=entry.images?entry.images.length+' arte'+(entry.images.length>1?'s disponíveis':' disponível'):'Apresentação da obra · sem spoilers';name.append(info);
+    const info=document.createElement('small');info.textContent=entry.images?entry.images.length+' arte'+(entry.images.length>1?'s disponíveis':' disponível'):(entry.number?'Leitura em texto':'Apresentação da obra · sem spoilers');name.append(info);
     const arrow=document.createElement('span');arrow.className='chapter-arrow';arrow.textContent='↗';arrow.setAttribute('aria-hidden','true');
     row.append(number,name,arrow);row.addEventListener('click',()=>open(index));return row;
   }
@@ -91,7 +91,7 @@
     (index<=chapters.length?$('chapter-list'):$('extra-list')).append(makeRow(entry,index));
     const option=document.createElement('option');option.value=String(index);option.textContent=label(entry)+' · '+entry.title;$('chapter-select').append(option);
   });
-  $('chapter-count').textContent=chapters.length+' capítulos em imagens';
+  $('chapter-count').textContent=chapters.length+' capítulos disponíveis';
   function filter() {
     const q=$('chapter-search').value.trim().normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
     let count=0;[...$('chapter-list').children].forEach((row,i)=>{const match=/^\d+$/.test(q)?entries[i].number===Number(q):row.dataset.search.includes(q);row.hidden=!match;if(match)count++;});
