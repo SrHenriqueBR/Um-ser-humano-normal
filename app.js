@@ -29,7 +29,7 @@
   function preferences() {
     document.documentElement.style.setProperty('--reading-size', size + 'px');
     $('font-size').textContent = size;
-    const comic = !!entries[current].images;
+    const comic = !!entries[current].images && !entries[current].paragraphs.length;
     $('smaller').disabled = comic || size <= 16; $('larger').disabled = comic || size >= 28;
     $('page').classList.toggle('night', night);
     $('theme').setAttribute('aria-pressed', String(night));
@@ -55,11 +55,11 @@
     $('entry-label').textContent = label(item).toUpperCase();
     $('page-label').textContent = label(item).toUpperCase();
     $('reader-body').replaceChildren(...item.paragraphs.map(text => { const p=document.createElement('p');p.textContent=text;return p; }));
-    $('reader-body').hidden = !!item.images;
+    $('reader-body').hidden = !item.paragraphs.length;
     $('art-reader').hidden = !item.images;
-    $('page').classList.toggle('comic-page', !!item.images);
+    $('page').classList.toggle('comic-page', !!item.images && !item.paragraphs.length);
     $('reading-notice').hidden = !item.images;
-    $('reading-notice').textContent = item.images && item.images.length > 1 ? 'Este capítulo reúne '+item.images.length+' artes, incluindo páginas ou versões alternativas. Use as setas para ver todas.' : 'Edição visual · toque na imagem para ampliar. O ajuste de fonte se aplica apenas aos textos do leitor.';
+    $('reading-notice').textContent = item.images && item.paragraphs.length ? (item.images.length > 1 ? 'Capítulo ilustrado · após o texto, veja '+item.images.length+' artes originais. Use as setas para navegar entre elas.' : 'Capítulo ilustrado · a arte original aparece após o texto.') : (item.images && item.images.length > 1 ? 'Este capítulo reúne '+item.images.length+' artes, incluindo páginas ou versões alternativas. Use as setas para ver todas.' : 'Edição visual · toque na imagem para ampliar.');
     if(item.images) renderArt();
     $('page-number').textContent = label(item);
     $('previous').disabled = current === 0;
