@@ -492,7 +492,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-31",
     "number": 31,
     "title": "Ainda Estamos Juntos",
-    "paragraphs": [],
+    "paragraphs": [
+      "O abrigo trouxe uma coisa que parecia impossível havia dias: alguns minutos de rotina. Hyejin conseguiu ouvir a voz da avó em uma comunicação curta, e aquele simples contato devolveu esperança ao grupo. Henrique continuou consertando equipamentos e redes enquanto todos tentavam organizar comida, descanso e planos para um futuro que podia desaparecer a qualquer momento.",
+      "Acima deles, porém, algo gigantesco cruzou o céu e fez anjos e demônios parecerem pequenos. A lista do 'depois de tudo' ganhou novos itens: reencontrar a família, comer comida de verdade, pagar o hambúrguer prometido a Ji-Hoon, dormir numa cama e não esquecer quem não chegasse ao fim. Enquanto ainda conseguiam fazer planos, Henrique acreditava que ainda estavam juntos — e isso precisava significar alguma coisa."
+],
     "images": [
       {
         "src": "assets/chapters/art-050.webp",
@@ -506,7 +509,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-32",
     "number": 32,
     "title": "Quando Não Havia Mais Para Voltar",
-    "paragraphs": [],
+    "paragraphs": [
+      "O avanço da guerra tornou impossível continuar chamando qualquer lugar de casa. Geradores falhavam, redes caíam, cidades desapareciam e rotas inteiras deixavam de existir. Henrique fazia o que sabia, reparando sistemas e ajudando os sobreviventes a mover o pouco que restava, mas cada conserto parecia durar menos que o anterior.",
+      "Quando uma nova criatura colossal apareceu além das ruínas, o grupo entendeu que não havia mais para onde voltar. A escolha deixou de ser entre ficar ou partir e passou a ser apenas qual caminho oferecia alguns minutos a mais. Henrique seguiu na frente sem se chamar de herói. Era simplesmente alguém tentando fazer o possível enquanto ainda existia gente atrás dele."
+],
     "images": [
       {
         "src": "assets/chapters/art-051.webp",
@@ -520,7 +526,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-33",
     "number": 33,
     "title": "Ainda É Vida",
-    "paragraphs": [],
+    "paragraphs": [
+      "Depois de tantas perdas, o grupo precisou reaprender a reconhecer vida em coisas pequenas. Uma refeição dividida, água limpa, uma noite sem explosões e uma risada que surgia por acidente começaram a valer mais que qualquer conforto antigo. Henrique percebeu que sobreviver não podia significar apenas contar mortos.",
+      "Hyejin continuava perto, e Soo-min tentava permanecer de pé apesar de tudo que havia perdido. As chamas de Henrique respondiam melhor, mas ele evitava transformá-las na única esperança do grupo. Poder podia falhar. Pessoas podiam cair. Ainda assim, enquanto alguém conseguia escolher cuidar do outro, aquilo ainda era vida."
+],
     "images": [
       {
         "src": "assets/chapters/art-052.webp",
@@ -534,7 +543,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-34",
     "number": 34,
     "title": "Três Chamas na Escuridão",
-    "paragraphs": [],
+    "paragraphs": [
+      "A sequência de fugas cobrou um preço brutal. Mais membros da família de Hyejin foram perdidos, Min-ho ficou para trás protegendo os demais e Ji-Hoon acabou preso em uma armadilha que usava justamente o instinto de quem o amava para atrair novas vítimas. Hyejin tentou voltar; Henrique precisou segurá-la mesmo sabendo que jamais esqueceria os gritos do menino.",
+      "As três pequenas chamas azuis ficaram mais estáveis depois da tragédia. Henrique não sentiu orgulho. Nenhuma delas podia trazer Ji-Hoon, os pais de Hyejin ou qualquer outro morto de volta. Quando a noite caiu, a lista de sonhos continuava manchada por nomes que nunca seriam riscados. O mundo insistia em destruir, e eles insistiam em caminhar."
+],
     "images": [
       {
         "src": "assets/chapters/art-053.webp",
@@ -554,7 +566,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-35",
     "number": 35,
     "title": "Três Sobreviventes no Apocalipse",
-    "paragraphs": [],
+    "paragraphs": [
+      "Restaram Henrique, Hyejin e Soo-min caminhando juntos entre os escombros imediatos daquela perda. Cada um carregava culpa por decisões tomadas em segundos: correr, não voltar, segurar alguém pela mão, deixar outro para trás. Nenhuma escolha parecia correta depois que o perigo passava.",
+      "Henrique recusou a ideia de chamar aquilo de vitória. Havia apenas sobreviventes. Hyejin sustentava a irmã enquanto ela tentava compreender a morte de Ji-Hoon e Min-ho. Henrique mantinha as três chamas próximas sem saber se eram proteção ou apenas mais uma lembrança de que estava mudando. Por enquanto, os três continuavam — porque parar não devolveria ninguém."
+],
     "images": [
       {
         "src": "assets/chapters/art-055.webp",
@@ -568,7 +583,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-36",
     "number": 36,
     "title": "Ela Parou de Correr: Continuamos Caminhando",
-    "paragraphs": [],
+    "paragraphs": [
+      "Soo-min começou a perder a vontade de correr. O luto pelo filho e pelo marido transformava cada passo em esforço, e as rupturas descobriram como usar isso. Vozes começaram a imitar Ji-Hoon, chamando no escuro e prometendo que ele ainda estava esperando. Soo-min quase seguiu uma delas.",
+      "Henrique a impediu mesmo sabendo que ela podia odiá-lo por isso. Hyejin segurou a irmã e prometeu que não perderia mais ninguém daquela maneira. As três chamas obedeciam cada vez melhor, mas Henrique compreendeu que força nenhuma resolveria o que acontecia dentro deles. Às vezes, sobreviver era continuar caminhando quando a própria mente já tinha parado."
+],
     "images": [
       {
         "src": "assets/chapters/art-056.webp",
@@ -582,7 +600,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-37",
     "number": 37,
     "title": "Além das Rupturas",
-    "paragraphs": [],
+    "paragraphs": [
+      "As rupturas deixaram de ser apenas portas. Elas começaram a aprender. Transmissões alertavam para entidades sem registro celestial ou infernal, capazes de reproduzir vozes, comportamentos e lembranças. Algumas chamavam sobreviventes pelo nome. Outras apenas observavam e esperavam a aproximação.",
+      "Henrique, Hyejin e Soo-min seguiram por estradas destruídas enquanto as três chamas se tornavam mais estáveis. A parte assustadora não era a força das criaturas, mas a adaptação. O grupo percebeu que os monstros não estavam apenas chegando à Terra: estavam entendendo como humanos pensavam. E cada nova compreensão tornava a próxima fuga mais difícil."
+],
     "images": [
       {
         "src": "assets/chapters/art-057.webp",
@@ -596,7 +617,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-38",
     "number": 38,
     "title": "Quando Até Eles Decidiram Recuar",
-    "paragraphs": [],
+    "paragraphs": [
+      "A chamada Zona Nula reuniu algo que ninguém esperava ver: Miguel e Lúcifer chegaram com suas forças, mas não começaram lutando entre si. Uma figura distante apareceu dentro da ruptura e alterou tudo que tocava. Luz celestial retornava corrompida, seres feridos atacavam aliados e até os exércitos mais arrogantes começaram a recuar.",
+      "Henrique assistiu de longe e entendeu a mensagem. Se Miguel e Lúcifer concordavam que era hora de sair, nenhum humano deveria ficar. O grupo entrou no veículo e fugiu enquanto a figura permanecia imóvel, sem perseguir ninguém. Aquilo foi ainda pior. Algumas coisas não precisavam correr atrás de você para provar que eram perigosas."
+],
     "images": [
       {
         "src": "assets/chapters/art-058.webp",
@@ -610,7 +634,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-39",
     "number": 39,
     "title": "Força Para Continuar",
-    "paragraphs": [],
+    "paragraphs": [
+      "Depois da Zona Nula, o grupo encontrou um intervalo raro entre ameaças. Henrique estava exausto, ferido e cada vez mais consciente de que suas chamas cobravam um preço físico. Hyejin insistiu para que ele descansasse antes de transformar a própria vontade de proteger em outra forma de morrer.",
+      "Os sobreviventes organizaram suprimentos e novas rotas. Soo-min continuou lutando contra as vozes e contra a culpa. Henrique percebeu que força para continuar não significava avançar sem parar; às vezes significava aceitar ajuda, dormir algumas horas e admitir que também podia ter medo. No dia seguinte, eles voltaram à estrada."
+],
     "images": [
       {
         "src": "assets/chapters/art-059.webp",
@@ -624,7 +651,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-40",
     "number": 40,
     "title": "O Preço de Continuar Mais Forte",
-    "paragraphs": [],
+    "paragraphs": [
+      "O controle das chamas melhorava, mas cada avanço cobrava energia demais de um corpo ainda humano. Henrique conseguia mover mais peso, reagir um pouco mais rápido e se recuperar de ferimentos menores, porém nada disso o aproximava das entidades que atravessavam o céu. Seu poder crescia; sua capacidade de salvar todos, não.",
+      "Uma noite com água quente e alguns minutos de silêncio pareceram luxo. Henrique releu a lista do 'depois de tudo' e percebeu quantos itens ainda dependiam apenas de continuar vivo até amanhã. O preço de ficar mais forte não era somente dor. Era o risco de começar a acreditar que força resolveria tudo. Hyejin não deixou que ele esquecesse disso."
+],
     "images": [
       {
         "src": "assets/chapters/art-060.webp",
@@ -638,7 +668,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-41",
     "number": 41,
     "title": "A Quarta Chama Desperta",
-    "paragraphs": [],
+    "paragraphs": [
+      "A quarta chama apareceu de madrugada, sozinha, conduzindo Henrique até uma porta onde um sobrevivente chamado Rafael pedia ajuda. Ferido e vindo da estrada, ele trouxe uma notícia pior que qualquer perseguição: as criaturas não estavam fugindo de algo que vinha. Estavam fugindo de alguma coisa que estava acordando.",
+      "Pouco depois, uma ponte improvisada se tornou a única saída para um grupo encurralado. Henrique usou planejamento, um caminhão, cabos e as quatro pequenas chamas para comprar segundos suficientes. Não houve transformação milagrosa nem explosão de poder. Houve persistência. Quando todos atravessaram, Hyejin e Soo-min o abraçaram, e Henrique permitiu-se acreditar que, dessa vez, ninguém tinha ficado para trás."
+],
     "images": [
       {
         "src": "assets/chapters/art-061.webp",
@@ -652,7 +685,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-42",
     "number": 42,
     "title": "O Que Dorme Abaixo",
-    "paragraphs": [],
+    "paragraphs": [
+      "A estrada seguinte parecia morta. Veículos estavam abandonados sem sangue ou corpos, criaturas de espécies diferentes apareciam caídas sem ferimentos visíveis e até seres infernais evitavam a região. Um anjo ferido avisou o grupo para sair dali e admitiu algo que assustou Henrique mais do que qualquer ameaça: nem eles sabiam o que estava embaixo.",
+      "Henrique e Hyejin criaram uma regra para as quatro chamas: usar poder apenas quando alguém estivesse prestes a morrer. Pouco depois, o vale começou a afundar e uma estrutura gigantesca emergiu do solo, engolindo casas, florestas e caminhos. Aquilo que dormia abaixo finalmente começava a acordar."
+],
     "images": [
       {
         "src": "assets/chapters/art-062.webp",
@@ -666,7 +702,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-43",
     "number": 43,
     "title": "Corre!",
-    "paragraphs": [],
+    "paragraphs": [
+      "Quando o terreno desabou, não havia estratégia sofisticada. Só correr. O grupo atravessou estradas quebradas, veículos tombados e regiões onde o solo desaparecia atrás deles. Henrique usou as chamas em pequenas rajadas para abrir passagem e impedir que os mais lentos fossem deixados.",
+      "A criatura ou estrutura que emergia parecia grande demais para ser enfrentada. Anjos passaram sobre os sobreviventes sem sequer parar, ocupados com uma ameaça que eles mesmos não compreendiam. Henrique segurou Hyejin pela mão e escolheu a única vitória disponível: colocar distância entre o grupo e aquilo."
+],
     "images": [
       {
         "src": "assets/chapters/art-063.webp",
@@ -680,7 +719,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-44",
     "number": 44,
     "title": "Guerra Celestial: Quando Céu e Inferno Colidem",
-    "paragraphs": [],
+    "paragraphs": [
+      "A guerra celestial deixou de acontecer apenas no céu. Legiões de anjos e demônios colidiram sobre a Terra, Miguel e Lúcifer voltaram a se enfrentar e os Cavaleiros do Inferno surgiram ao lado dos Pecados Capitais. O Vazio enviou seus próprios cavaleiros, independentes de qualquer lado, e a Morte apareceu como uma presença que nenhum exército parecia capaz de comandar.",
+      "Montanhas desapareceram, cidades viraram pó e oceanos reagiram aos confrontos. Para os humanos abaixo, não existia lado seguro. Henrique compreendeu que aquelas entidades tinham histórias, rivalidades e objetivos anteriores à humanidade. Seu grupo precisava sobreviver enquanto deuses resolviam guerras que começaram muito antes deles nascerem."
+],
     "images": [
       {
         "src": "assets/chapters/art-064.webp",
@@ -694,7 +736,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-45",
     "number": 45,
     "title": "Quando os Deuses Caíram do Céu",
-    "paragraphs": [],
+    "paragraphs": [
+      "Combatentes celestiais e infernais começaram a cair sobre a Terra como meteoros vivos. Perto do grupo, um Cavaleiro do Inferno atravessou o campo de batalha e deixou claro o abismo entre Henrique e os verdadeiros monstros daquela guerra. As quatro chamas não significavam nada diante de seres capazes de partir terreno apenas com a presença.",
+      "O grupo encontrou comida e alguns minutos de descanso em uma fazenda abandonada. No rádio, porém, surgiu um aviso incompleto: alguma coisa estava comendo sobreviventes e deixando poucos rastros. Muito longe dali, uma presença associada à fome caminhava entre ruínas. Henrique ainda não sabia seu nome."
+],
     "images": [
       {
         "src": "assets/chapters/art-065.webp",
@@ -708,7 +753,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-46",
     "number": 46,
     "title": "Alguma Coisa Está Comendo Todo Mundo",
-    "paragraphs": [],
+    "paragraphs": [
+      "Os avisos se repetiram em diferentes frequências: grupos inteiros desapareciam, não havia corpos suficientes para explicar as perdas e equipes enviadas para investigar deixavam de responder. A frase transmitida por um sobrevivente virou medo compartilhado — 'tem alguma coisa comendo todo mundo'.",
+      "Henrique, Hyejin e Soo-min evitaram estradas principais e passaram a escolher abrigos menores. Em uma igreja destruída, conseguiram descansar juntos por algumas horas. Acima deles, a guerra continuava. Em algum lugar adiante, Baltazar, a Gula, seguia o cheiro de vida sem saber ainda que o humano das quatro chamas existia."
+],
     "images": [
       {
         "src": "assets/chapters/art-066.webp",
@@ -722,7 +770,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-47",
     "number": 47,
     "title": "Um dos Sete",
-    "paragraphs": [],
+    "paragraphs": [
+      "O grupo finalmente viu Gula. Baltazar não parecia apenas um demônio grande; sua presença transformava sobreviventes em alimento antes mesmo de qualquer combate começar. Um Arcanjo desceu para enfrentá-lo e a batalha destruiu terreno suficiente para mostrar a Henrique exatamente onde ele estava na escala daquela guerra.",
+      "As quatro chamas não seriam suficientes. Henrique não tentou provar o contrário. Ele levou Hyejin, Soo-min e os demais para longe enquanto o Arcanjo comprava tempo. Baltazar era um dos Sete Pecados Capitais e continuava rindo mesmo ferido. Às vezes, a maior força era reconhecer uma luta que não pertencia a você."
+],
     "images": [
       {
         "src": "assets/chapters/art-067.webp",
@@ -736,7 +787,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-48",
     "number": 48,
     "title": "Não Existe Mais Uma Direção Segura",
-    "paragraphs": [],
+    "paragraphs": [
+      "A direção de Gula obrigou o grupo a abandonar rotas consideradas seguras. Ao norte havia atividade do Vazio; ao leste, grandes abrigos cheios de humanos atraíam Baltazar; ao sul surgiam sinais de algo subterrâneo. Nem mesmo o oeste permanecia confiável. O mapa havia deixado de representar caminhos e começado a representar ameaças.",
+      "Henrique viajou com Hyejin, Soo-min, Davi, Clara e outros sobreviventes, protegendo crianças e tentando manter o grupo pequeno o bastante para não chamar atenção. Um demônio ferido confirmou que um dos Sete estava próximo. Eles se esconderam entre árvores enquanto Gula passava ao longe. Por sorte, ele não os encontrou. Ainda."
+],
     "images": [
       {
         "src": "assets/chapters/art-068.webp",
@@ -750,7 +804,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-49",
     "number": 49,
     "title": "Não Faça Barulho",
-    "paragraphs": [],
+    "paragraphs": [
+      "A ordem era simples: não fazer barulho. Portais se abriam, Cavaleiros atravessavam a região e Gula estava perto demais para qualquer demonstração de poder. As quatro chamas permaneceram apagadas enquanto Henrique conduzia o grupo por ruínas e uma vila aparentemente abandonada.",
+      "Ali encontraram Clara e uma mensagem ameaçadora deixada na parede. A menina ainda sonhava em ver o mar, e esse desejo foi adicionado à lista do 'depois'. Quando a guerra explodiu novamente no céu, Henrique entendeu que sobreviver não era vencer cada inimigo. Era levar aquelas pessoas até o próximo lugar onde pudessem respirar."
+],
     "images": [
       {
         "src": "assets/chapters/art-069.webp",
@@ -764,7 +821,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-50",
     "number": 50,
     "title": "Ele Olhou Para Nós",
-    "paragraphs": [],
+    "paragraphs": [
+      "A fuga pela ferrovia parecia funcionar até o céu mudar de cor e novos portais se abrirem. Cavaleiros do Vazio atravessaram a região, forças infernais responderam e o grupo ficou preso entre ameaças grandes demais para notar humanos — até Gula aparecer.",
+      "Um choque brutal o lançou entre ruínas e, por um instante, Henrique acreditou que tinham escapado sem ser percebidos. Então Baltazar levantou a cabeça e olhou diretamente para o grupo. Ele riu. A partir daquele momento, não eram apenas sobreviventes aleatórios. Gula lembrava de seus rostos."
+],
     "images": [
       {
         "src": "assets/chapters/art-070.webp",
@@ -778,7 +838,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-51",
     "number": 51,
     "title": "O Humano da Ponte",
-    "paragraphs": [],
+    "paragraphs": [
+      "Mesmo ferido pela queda de uma ponte e por um confronto com um Arcanjo, Gula continuou. Henrique conseguiu uma picape velha para retirar crianças e feridos enquanto os demais corriam atrás. Quando um Arcanjo de seis asas desceu para enfrentar Baltazar, montanhas foram atingidas e Henrique percebeu novamente que suas quatro chamas eram insignificantes naquele nível de batalha.",
+      "Por algum motivo, ameaças maiores chamaram o Arcanjo para outro lugar e Gula acabou desviando a atenção para a guerra. Antes de partir, olhou para a estrada e chamou Henrique de 'o humano da ponte'. Em um galpão abandonado, o grupo voltou a falar sobre o futuro: hambúrguer por Ji-Hoon, sorvete, mar e qualquer amanhã que conseguissem alcançar."
+],
     "images": [
       {
         "src": "assets/chapters/art-071.webp",
@@ -792,7 +855,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-52",
     "number": 52,
     "title": "Quando os Pecados Foram Chamados",
-    "paragraphs": [],
+    "paragraphs": [
+      "Uma fissura do Vazio cresceu no norte e obrigou inimigos a reagirem juntos. Miguel convocou Arcanjos; Lúcifer reuniu forças infernais; os Pecados Capitais foram chamados. Luxúria, Avareza, Preguiça, Ira, Gula e os demais interromperam suas próprias disputas porque o que atravessava aquela abertura ameaçava todos os lados.",
+      "Até Baltazar parou de sorrir por alguns instantes. Enquanto as forças cósmicas se concentravam no norte, Henrique continuava viajando com Hyejin e os outros. Ele permanecia humano: cansado, ferido, quatro pequenas chamas e nenhuma transformação verdadeira. Hyejin ainda estava viva, e enquanto ela estivesse, algo dentro dele permanecia ancorado."
+],
     "images": [
       {
         "src": "assets/chapters/art-072.webp",
@@ -806,7 +872,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-53",
     "number": 53,
     "title": "Até o Vazio Conhecia a Morte",
-    "paragraphs": [],
+    "paragraphs": [
+      "A própria Morte apareceu diante da expansão do Vazio. Miguel, Lúcifer e os Pecados silenciaram. Quando uma entidade tentou tocá-la, recuou como se pela primeira vez o nada tivesse encontrado algo que não podia simplesmente apagar. Henrique jamais viu a cena inteira, apenas relatos fragmentados chegando pelo rádio.",
+      "Na estrada, o grupo entrou numa região de vegetação estranhamente bela. Flores surgiam onde nada deveria crescer e vozes familiares pareciam atravessar o vento. O lugar ganhou um nome simples: Jardim. Henrique percebeu que beleza podia ser apenas outra forma de armadilha."
+],
     "images": [
       {
         "src": "assets/chapters/art-073.webp",
@@ -820,7 +889,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-54",
     "number": 54,
     "title": "Não Aceite as Flores",
-    "paragraphs": [],
+    "paragraphs": [
+      "O Jardim conhecia saudade. Vozes de mortos chamavam os sobreviventes pelo nome, flores assumiam formas tranquilizadoras e lembranças apareciam exatamente onde doíam mais. Henrique ouviu Amanda. Soo-min ouviu Ji-Hoon e quase abriu uma passagem acreditando que o filho estava do outro lado.",
+      "Quando uma criatura em forma de flor atacou Hyejin, uma das quatro chamas de Henrique reagiu sozinha e queimou apenas o necessário para protegê-la. O grupo fugiu sem recolher nada da vegetação. A regra passou a ser absoluta: não aceitar flores, não responder às vozes e não olhar por tempo demais. Um sinal de rádio apontava para uma instalação a trinta e um quilômetros, onde talvez a avó de Hyejin estivesse."
+],
     "images": [
       {
         "src": "assets/chapters/art-074.webp",
@@ -834,7 +906,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-55",
     "number": 55,
     "title": "Ela Estava Esperando",
-    "paragraphs": [],
+    "paragraphs": [
+      "A instalação secundária ainda funcionava. Contra todas as probabilidades, a avó de Hyejin estava ali esperando. O reencontro fez a lista do 'depois de tudo' finalmente ganhar um item riscado de verdade. Hyejin chorou abraçada a ela, e Henrique permitiu-se sorrir como não fazia havia muito tempo.",
+      "Por uma noite, eles dormiram em camas e comeram sem correr. Hyejin continuava usando o colar que carregava desde antes do fim do mundo. Do lado de fora, porém, sinais do Jardim já apareciam longe do vale original. Suas sementes tinham viajado. A ameaça não precisava perseguir ninguém; podia simplesmente crescer."
+],
     "images": [
       {
         "src": "assets/chapters/art-075.webp",
@@ -848,7 +923,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-56",
     "number": 56,
     "title": "Por Uma Manhã, Nós Ficamos",
-    "paragraphs": [],
+    "paragraphs": [
+      "A manhã seguinte quase pareceu normal. O grupo tomou banho, comeu, atualizou a lista de sonhos e conseguiu rir dentro de uma instalação que abrigava quase cinco mil pessoas. Henrique olhou para o céu e, diante de uma estrela cadente, não pediu força nem poder. Pediu apenas que o dia seguinte fosse chato.",
+      "No norte, Miguel e Lúcifer fecharam temporariamente a fissura do Vazio e imediatamente voltaram a se odiar. Os Pecados se dispersaram. Gula desceu novamente para a Terra, sem saber onde Henrique estava, mas lembrando do rosto do humano que havia sobrevivido. A instalação era uma pausa, não um fim."
+],
     "images": [
       {
         "src": "assets/chapters/art-076.webp",
@@ -862,7 +940,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-57",
     "number": 57,
     "title": "Amanhã Quase Foi Chato",
-    "paragraphs": [],
+    "paragraphs": [
+      "Por algumas horas, o pedido de Henrique pareceu atendido. Houve brincadeiras, reclamações, pequenas tarefas e até Soo-min conseguiu rir de verdade. Então os postos de comunicação começaram a silenciar. Uma voz fragmentada surgiu no rádio: não mandem ninguém; ele está comendo todo mundo.",
+      "A instalação entrou em alerta. Mapas foram abertos, rotas revistas e a possibilidade de abandonar tudo que tinham conquistado voltou à mesa. Longe dali, Gula seguia o maior sinal de vida que podia encontrar. Ele não precisava sentir Henrique. Cinco mil pessoas juntas eram convite suficiente."
+],
     "images": [
       {
         "src": "assets/chapters/art-077.webp",
@@ -876,7 +957,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-58",
     "number": 58,
     "title": "Cinco Mil Pessoas em Fuga",
-    "paragraphs": [],
+    "paragraphs": [
+      "A evacuação começou antes que pânico pudesse dominar a instalação. Quase cinco mil pessoas saíram em silêncio impossível: crianças, idosos, feridos e famílias avançando em uma coluna enorme por estradas e trilhas. Veículos ficaram para quem não conseguia caminhar, e Henrique se despediu da velha picape como se fosse um companheiro de guerra.",
+      "Hyejin permaneceu ao lado dele. Soo-min seguia tentando reaprender a sorrir, Clara continuava desenhando o mar e a avó de Hyejin mantinha o grupo unido. A estratégia era simples: espalhar rastros, reduzir concentração de vida e evitar dar a Gula um único destino óbvio. Continuar juntos agora podia significar não caminhar todos pelo mesmo caminho."
+],
     "images": [
       {
         "src": "assets/chapters/art-078.webp",
@@ -890,7 +974,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-59",
     "number": 59,
     "title": "Caminhos Separados",
-    "paragraphs": [],
+    "paragraphs": [
+      "A multidão de quase cinco mil sobreviventes tornou-se grande demais para esconder. Lideranças decidiram separar grupos e seguir por rotas diferentes. Para Henrique, a lógica era correta e emocionalmente cruel. Depois de tantas perdas, dividir-se parecia desafiar a única regra que ainda fazia sentido: permanecer juntos.",
+      "Ele ficou com Hyejin, Soo-min, Davi, Clara, a avó e Henriqueta, escolhendo uma rota montanhosa com menos sinais de atividade. Cada despedida poderia ser definitiva, mas a alternativa era oferecer milhares de pessoas de uma vez à Fome. Pela primeira vez, sobreviver exigia confiar que outros também conseguiriam sem ele."
+],
     "images": [
       {
         "src": "assets/chapters/art-079.webp",
@@ -910,7 +997,10 @@ window.BOOK_CHAPTERS = [
     "id": "capitulo-60",
     "number": 60,
     "title": "A Fome no Vale das Pedras",
-    "paragraphs": [],
+    "paragraphs": [
+      "No Vale das Pedras, os rastros finalmente foram suficientes. Gula encontrou o caminho. A presença de Baltazar transformou a marcha em fuga, e o terreno estreito impediu que o grupo simplesmente se dispersasse. Henrique usou as chamas apenas para ganhar segundos, nunca acreditando que poderia derrotar o Pecado.",
+      "Quando a situação parecia perdida, outra força celestial entrou no confronto e obrigou Gula a dividir a atenção. O vale virou campo de batalha, pedras e encostas cederam e os sobreviventes aproveitaram o caos para escapar. Baltazar permaneceu vivo. A Fome não havia terminado; agora estava apenas mais interessada."
+],
     "images": [
       {
         "src": "assets/chapters/art-081.webp",
