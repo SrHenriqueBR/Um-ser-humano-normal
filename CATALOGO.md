@@ -1,6 +1,6 @@
 # Catálogo das artes importadas
 
-124 imagens: 116 associadas a 95 capítulos e 8 extras sem numeração confirmada.
+153 imagens: 141 associadas a 107 capítulos e 12 extras sem numeração confirmada.
 As imagens são as artes originais, convertidas para WebP na resolução integral. O leitor do site agora combina narrativa em texto com essas artes; para os capítulos antigos cujo manuscrito corrido não estava disponível no repositório, a narrativa foi reconstruída de forma fiel a partir das páginas visuais e do cânone da obra.
 Não foram localizados capítulos com numeração confirmada para 1 e 16. O capítulo 96 foi incorporado em texto.
 
@@ -132,3 +132,40 @@ Quando há mais de uma arte para um capítulo, todas são preservadas na ordem d
 | Extra sem numeração | Encontro na Árvore da Vida.png | assets/chapters/art-158.webp |
 | Extra sem numeração | Encontro Mágico na Floresta Eterna.png | assets/chapters/art-159.webp |
 | Extra sem numeração | Tríptico Fantástico de Kaizen e Suas Amadas.png | assets/chapters/art-160.webp |
+
+
+## Atualização de 4 de outubro de 2026
+
+29 artes acrescentadas. Numeração conferida nos cabeçalhos das imagens; cenas sem número permanecem nos extras. Há diferentes títulos e versões visuais para 107 e 108, preservados nas legendas.
+
+| Capítulo | Arquivo original | Arquivo no site |
+| --- | --- | --- |
+| Extra sem numeração | Ecos da Criação Cósmica.png | assets/chapters/update-20261004-04.webp |
+| 107 | Memórias do Primeiro Céu.png | assets/chapters/update-20261004-10.webp |
+| 107 | Memórias Cósmicas de Arcaceus.png | assets/chapters/update-20261004-07.webp |
+| Extra sem numeração | image-gen-1(2).png | assets/chapters/update-20261004-13.webp |
+| Extra sem numeração | image-gen-2(1).png | assets/chapters/update-20261004-18.webp |
+| 108 | image-gen-1(3).png | assets/chapters/update-20261004-14.webp |
+| 108 | image-gen-2(2).png | assets/chapters/update-20261004-19.webp |
+| Extra sem numeração | Ecos de Arcaceus no Vazio.png | assets/chapters/update-20261004-05.webp |
+| 107 | Memórias de Arcaceus: Criação e Vazio.png | assets/chapters/update-20261004-08.webp |
+| 108 | Capítulo 108: O Primeiro Jardim.png | assets/chapters/update-20261004-02.webp |
+| 107 | O Primeiro Jardim: Luz Contra o Vazio.png | assets/chapters/update-20261004-12.webp |
+| 107 | Memórias de Arcaceus: Luz e Vazio.png | assets/chapters/update-20261004-09.webp |
+| 108 | Capítulo 108: O Primeiro Jardim(1).png | assets/chapters/update-20261004-01.webp |
+| 107 | Aquele Que Ficou no Vazio.png | assets/chapters/update-20261004-00.webp |
+| 108 | O Chamado de Outro Mundo.png | assets/chapters/update-20261004-11.webp |
+| 109 | Hamiel: Invocação e Segredos.png | assets/chapters/update-20261004-06.webp |
+| 110 | Capítulo 110: Um Homem Sem Poder.png | assets/chapters/update-20261004-03.webp |
+| 99 | image-gen-1(4).png | assets/chapters/update-20261004-15.webp |
+| 100 | image-gen-2(3).png | assets/chapters/update-20261004-20.webp |
+| 101 | image-gen-3.png | assets/chapters/update-20261004-23.webp |
+| 102 | image-gen-4.png | assets/chapters/update-20261004-24.webp |
+| 103 | image-gen-5.png | assets/chapters/update-20261004-25.webp |
+| 104 | image-gen-6.png | assets/chapters/update-20261004-26.webp |
+| 105 | image-gen-7.png | assets/chapters/update-20261004-27.webp |
+| 106 | image-gen-8.png | assets/chapters/update-20261004-28.webp |
+| 107 | image-gen-1(5).png | assets/chapters/update-20261004-16.webp |
+| 108 | image-gen-2(4).png | assets/chapters/update-20261004-21.webp |
+| 109 | image-gen-1(6).png | assets/chapters/update-20261004-17.webp |
+| 110 | image-gen-2(5).png | assets/chapters/update-20261004-22.webp |

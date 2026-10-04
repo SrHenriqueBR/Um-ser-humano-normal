@@ -44,10 +44,11 @@ O site funciona em subdiretórios, incluindo GitHub Pages. Não exige npm, chave
 
 ## Edição visual importada
 
-O site contém 124 artes originais, sendo 116 imagens associadas a 95 capítulos (numeração entre 2 e 98) e 8 extras sem número confirmado. Os capítulos 1, 16 e 96 não foram localizados com numeração confirmada. A apresentação de Henrique e a cena do churrasco permanecem nos extras, sem serem declaradas capítulos 1 e 16.
+O site contém 153 artes originais: 141 imagens associadas a 107 capítulos (numeração entre 2 e 110) e 12 extras sem número confirmado. Os capítulos 1 e 16 continuam pendentes; o capítulo 96 está disponível em texto. A atualização de 4 de outubro de 2026 acrescentou 29 artes, incluindo páginas numeradas de 99 a 110. Versões alternativas são preservadas com suas legendas.
 
 Consulte `CATALOGO.md` para a correspondência entre os arquivos originais e o site. Várias artes do mesmo capítulo podem ser versões alternativas, não páginas sequenciais. O leitor mantém todas acessíveis, sem escolher uma versão canônica. O capítulo 87 contém diversas partes e páginas.
 
 Imagens não são transcrições do manuscrito. O botão de ampliação e o controle de zoom permitem ler os balões no celular. As imagens mantêm sua resolução original. Só a arte selecionada é carregada, evitando baixar a coleção inteira de uma vez.
 
 `BOOK_CHAPTERS` admite `number` e `images: [{src, title, width, height}]`. `BOOK_EXTRAS` mantém as artes não numeradas fora da sequência principal. Os links `#ler/capitulo-27`, por exemplo, abrem o capítulo correspondente. O salvamento inclui capítulo, arte, posição de leitura e preferências.
+
