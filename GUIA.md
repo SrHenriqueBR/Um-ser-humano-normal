@@ -59,3 +59,12 @@ Imagens não são transcrições do manuscrito. O botão de ampliação e o cont
 `BOOKS` define a navegação por livro; `book` associa cada capítulo. A continuação contém 21 artes e 79 capítulos identificados visualmente, ainda sem texto integral. `chapterNumbers` registra os números visíveis em uma prancha. A sequência de mangá elimina repetições por `src` dentro de cada livro, mantendo acesso direto pelo índice de cada capítulo.
 
 Ao alterar os dados ou scripts, atualize o parâmetro `v` dos recursos no HTML para invalidar cópias antigas do navegador.
+
+
+## Textos da Temporada 2 — 7 de outubro de 2026
+
+Importados os 89 capítulos de 111 a 199, com 3.853 parágrafos narrativos, de `Kaizen_Temporada_2_Capitulos_111-199.docx`, fornecido pelo autor. Títulos e parágrafos preservados exatamente como no documento; índice e metadados de contagem não fazem parte do corpo narrativo. Foram acrescentados os dez capítulos antes ausentes do índice.
+
+Título da Temporada 2: **Um ser humano normal? Em outro mundo?**. A nota de abertura do documento declara que 111–114 foram reconstruídos do material visual e os demais consolidados. Esta importação usa essa compilação atual, sem afirmar que seja uma transcrição literal da conversa original.
+
+As 174 artes e o Livro 1 foram preservados. As numerações impressas nas artes não foram alteradas; eventuais diferenças em relação ao manuscrito são informadas na página. A indicação anterior de textos faltantes foi substituída pela disponibilidade completa de 111–199.

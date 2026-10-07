@@ -200,3 +200,12 @@ Livro 2 — Continuação é um rótulo de navegação; o título definitivo nã
 | 180, 181, 182, 183, 184 | Montagem de Capítulos Fantásticos em Mangá.png | assets/chapters/update-20261007-17.webp |
 | 185, 186, 187, 188, 189, 190 | Colagem de Mangá: Destinos Entrelaçados.png | assets/chapters/update-20261007-10.webp |
 | 191, 186, 187, 188, 189, 195 | Colagem de Mangá: Destinos Entrelaçados(1).png | assets/chapters/update-20261007-09.webp |
+
+
+## Textos da Temporada 2 — 7 de outubro de 2026
+
+Importados os 89 capítulos de 111 a 199, com 3.853 parágrafos narrativos, de `Kaizen_Temporada_2_Capitulos_111-199.docx`, fornecido pelo autor. Títulos e parágrafos preservados exatamente como no documento; índice e metadados de contagem não fazem parte do corpo narrativo. Foram acrescentados os dez capítulos antes ausentes do índice.
+
+Título da Temporada 2: **Um ser humano normal? Em outro mundo?**. A nota de abertura do documento declara que 111–114 foram reconstruídos do material visual e os demais consolidados. Esta importação usa essa compilação atual, sem afirmar que seja uma transcrição literal da conversa original.
+
+As 174 artes e o Livro 1 foram preservados. As numerações impressas nas artes não foram alteradas; eventuais diferenças em relação ao manuscrito são informadas na página. A indicação anterior de textos faltantes foi substituída pela disponibilidade completa de 111–199.
