@@ -169,3 +169,34 @@ Quando há mais de uma arte para um capítulo, todas são preservadas na ordem d
 | 108 | image-gen-2(4).png | assets/chapters/update-20261004-21.webp |
 | 109 | image-gen-1(6).png | assets/chapters/update-20261004-17.webp |
 | 110 | image-gen-2(5).png | assets/chapters/update-20261004-22.webp |
+
+
+## Continuação — 7 de outubro de 2026
+
+21 novas artes, com 79 números de capítulos confirmados nas imagens entre 111 e 195. Total: 174 artes únicas. As pranchas com vários capítulos são compartilhadas pelos respectivos itens do índice e aparecem uma vez na sequência do mangá.
+
+Livro 2 — Continuação é um rótulo de navegação; o título definitivo não foi recuperado. Os novos capítulos estão disponíveis em imagem, sem reconstrução do manuscrito. Não foi recuperado material confirmado para 148, 157, 158, 192–194 e 196–199. Títulos e numerações divergentes das versões visuais foram preservados dentro das artes.
+
+| Capítulos visíveis | Original | Arte no site |
+| --- | --- | --- |
+| 111 | Colagem Fantástica: Os Dois Invocados.png | assets/chapters/update-20261007-07.webp |
+| 111 | Capítulo 111: Os Dois Invocados.png | assets/chapters/update-20261007-01.webp |
+| 112, 113, 114 | Capítulos 112–114: Cicatrizes e Desafios.png | assets/chapters/update-20261007-02.webp |
+| 115, 116, 117, 118 | Colagem de Mangá Fantasia em Hamiel.png | assets/chapters/update-20261007-08.webp |
+| 119, 120, 121, 122 | Crônicas de Hamiel: O Estrategista Classe F.png | assets/chapters/update-20261007-14.webp |
+| 123, 124, 125, 126 | O Caminho de Kaizen em Vana Ygradrasil.png | assets/chapters/update-20261007-19.webp |
+| 127, 128, 129, 130, 131 | Cinco Anos no Breu Interior.png | assets/chapters/update-20261007-06.webp |
+| 129, 130, 131, 132, 133, 134 | Kaizen e Arcaceus: O Vazio Entre Mundos.png | assets/chapters/update-20261007-15.webp |
+| 135, 136, 137, 138, 139, 140 | Kaizen: Luz, Sombra e Multiverso.png | assets/chapters/update-20261007-16.webp |
+| 141 | As Pirralhas do Primeiro Filho.png | assets/chapters/update-20261007-00.webp |
+| 142, 143, 144, 141, 145, 146, 147 | Treinamento Cósmico e Despedidas.png | assets/chapters/update-20261007-20.webp |
+| 149, 150, 151, 152, 153 | Colagem de Mangá: Heróis de Hamiel.png | assets/chapters/update-20261007-11.webp |
+| 149, 150, 151, 152, 153 | Capítulos de Hamiel: A Princesa-Regente.png | assets/chapters/update-20261007-04.webp |
+| 154, 155, 156, 151, 152, 153, 159 | Colagem Épica: Cinco Anos de Saudade.png | assets/chapters/update-20261007-12.webp |
+| 160, 161, 162, 163, 164, 165 | Capítulos 160–165: Cartas e Esperança.png | assets/chapters/update-20261007-03.webp |
+| 166, 167, 168, 169, 170 | Capítulos de Hamiel: Memórias e Esperança.png | assets/chapters/update-20261007-05.webp |
+| 171, 172, 173, 174 | Crônicas de Elisabeth e as Princesas Dragonoides.png | assets/chapters/update-20261007-13.webp |
+| 175, 176, 177, 178, 179 | Montagem Épica de Fantasia em Quadrinhos.png | assets/chapters/update-20261007-18.webp |
+| 180, 181, 182, 183, 184 | Montagem de Capítulos Fantásticos em Mangá.png | assets/chapters/update-20261007-17.webp |
+| 185, 186, 187, 188, 189, 190 | Colagem de Mangá: Destinos Entrelaçados.png | assets/chapters/update-20261007-10.webp |
+| 191, 186, 187, 188, 189, 195 | Colagem de Mangá: Destinos Entrelaçados(1).png | assets/chapters/update-20261007-09.webp |

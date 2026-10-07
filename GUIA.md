@@ -52,3 +52,10 @@ Imagens não são transcrições do manuscrito. O botão de ampliação e o cont
 
 `BOOK_CHAPTERS` admite `number` e `images: [{src, title, width, height}]`. `BOOK_EXTRAS` mantém as artes não numeradas fora da sequência principal. Os links `#ler/capitulo-27`, por exemplo, abrem o capítulo correspondente. O salvamento inclui capítulo, arte, posição de leitura e preferências.
 
+
+
+## Livros e pranchas compartilhadas
+
+`BOOKS` define a navegação por livro; `book` associa cada capítulo. A continuação contém 21 artes e 79 capítulos identificados visualmente, ainda sem texto integral. `chapterNumbers` registra os números visíveis em uma prancha. A sequência de mangá elimina repetições por `src` dentro de cada livro, mantendo acesso direto pelo índice de cada capítulo.
+
+Ao alterar os dados ou scripts, atualize o parâmetro `v` dos recursos no HTML para invalidar cópias antigas do navegador.

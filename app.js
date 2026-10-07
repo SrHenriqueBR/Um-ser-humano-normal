@@ -18,6 +18,8 @@
   const chapters = (window.BOOK_CHAPTERS || []).filter(valid);
   const extras = (window.BOOK_EXTRAS || []).filter(valid);
   const entries = [introduction, ...chapters, ...extras];
+  const books = window.BOOKS || [{ id: 1, title: 'Um ser humano normal?' }];
+  const bookTitle = e => books.find(b => b.id === (e.book || 1))?.title || '';
   const label = e => e.number ? `Capítulo ${String(e.number).padStart(2, '0')}` : e.id === 'apresentacao' ? 'Apresentação' : 'Arte extra';
 
   let saved = {};
@@ -42,6 +44,7 @@
   }
   function renderStory() {
     const e = entries[current];
+    $('reader-book-title').textContent = bookTitle(e);
     $('reader-title').textContent = e.title;
     $('entry-label').textContent = label(e).toUpperCase();
     $('page-label').textContent = label(e).toUpperCase();
@@ -60,7 +63,8 @@
     $('mode-manga').disabled = !hasManga;
     $('mode-manga-count').textContent = hasManga ? ` · ${e.images.length}` : '';
     $('reading-notice').hidden = !hasManga;
-    $('reading-notice').textContent = hasManga ? `Este capítulo também possui ${e.images.length} ${e.images.length > 1 ? 'páginas/artes' : 'página/arte'} no modo mangá.` : '';
+    $('reading-notice').textContent = hasManga ? (e.paragraphs.length ? `Este capítulo também possui ${e.images.length} páginas/artes no modo mangá.` : 'Disponível em mangá. Abra “Ver mangá” para ler a prancha original. O texto integral ainda não foi incorporado.') : '';
+    $('mode-story').disabled = !e.paragraphs.length;
     $('mode-story').classList.add('active');
     $('mode-manga').classList.remove('active');
     preferences();
@@ -77,6 +81,7 @@
   function makeRow(e, index) {
     const row = document.createElement('div');
     row.className = 'chapter-row chapter-row-actions';
+    row.dataset.entryIndex = String(index);
     row.dataset.search = `${label(e)} ${e.title}`.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     const n = document.createElement('span');
     n.className = 'chapter-number';
@@ -94,7 +99,7 @@
     read.className = 'chapter-action';
     read.textContent = '📖 Ler';
     read.addEventListener('click', () => openStory(index));
-    actions.append(read);
+    if (e.paragraphs.length) actions.append(read);
     if (e.images?.length) {
       const manga = document.createElement('button');
       manga.type = 'button';
@@ -114,17 +119,26 @@
     option.textContent = `${label(e)} · ${e.title}`;
     $('chapter-select').append(option);
   });
-  $('chapter-count').textContent = chapters.length + ' capítulos disponíveis';
-  $('chapter-search').addEventListener('input', () => {
+  let selectedBook = 'all';
+  function filterChapters() {
     const q = $('chapter-search').value.trim().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     let count = 0;
-    [...$('chapter-list').children].forEach((row, i) => {
-      const match = /^\d+$/.test(q) ? entries[i].number === Number(q) : row.dataset.search.includes(q);
+    [...$('chapter-list').children].forEach(row => {
+      const entry = entries[Number(row.dataset.entryIndex)];
+      const match = (selectedBook === 'all' || (entry.book || 1) === Number(selectedBook)) && (/^\d+$/.test(q) ? entry.number === Number(q) : row.dataset.search.includes(q));
       row.hidden = !match;
       if (match) count++;
     });
     $('search-status').textContent = q ? (count ? `${count} resultado${count > 1 ? 's' : ''}` : 'Nenhum capítulo encontrado.') : '';
-  });
+    $('chapter-count').textContent = chapters.filter(c => selectedBook === 'all' || (c.book || 1) === Number(selectedBook)).length + ' capítulos no catálogo';
+  }
+  $('chapter-search').addEventListener('input', filterChapters);
+  document.querySelectorAll('[data-book-filter]').forEach(button => button.addEventListener('click', () => {
+    selectedBook = button.dataset.bookFilter;
+    document.querySelectorAll('[data-book-filter]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
+    filterChapters();
+  }));
+  filterChapters();
   $('chapter-select').addEventListener('change', () => openStory(Number($('chapter-select').value)));
   $('previous').addEventListener('click', () => { if (current > 0) openStory(current - 1); });
   $('next').addEventListener('click', () => { if (!$('next').disabled) openStory(current + 1); });
@@ -138,7 +152,11 @@
   // ----- Leitor de mangá contínuo -----
   const chapterPages = [];
   const extraPages = [];
+  const seenPages = new Set();
   entries.forEach((e, entryIndex) => e.images?.forEach((image, imageIndex) => {
+    const key = `${entryIndex <= chapters.length ? e.book || 1 : 'extra'}:${image.src}`;
+    if (seenPages.has(key)) return;
+    seenPages.add(key);
     (entryIndex <= chapters.length ? chapterPages : extraPages).push({ entryIndex, imageIndex, image });
   }));
 
@@ -185,7 +203,7 @@
 
   const page = () => sequence[pageIndex];
   const pageAt = delta => sequence[pageIndex + delta];
-  const pageSequence = entryIndex => entryIndex <= chapters.length ? chapterPages : extraPages;
+  const pageSequence = entryIndex => entryIndex <= chapters.length ? chapterPages.filter(p => (entries[p.entryIndex].book || 1) === (entries[entryIndex].book || 1)) : extraPages;
 
   function setTurningState(value) {
     turning = value;
@@ -209,19 +227,21 @@
     setTurningState(turning);
   }
 
-  function setPageSource() {
+  function setPageSource(preferredEntryIndex) {
     const p = page();
     if (!p) return;
-    current = p.entryIndex;
-    art = p.imageIndex;
+    const preferred = Number.isInteger(preferredEntryIndex) && entries[preferredEntryIndex]?.images?.findIndex(im => im.src === p.image.src);
+    current = preferred !== false && preferred >= 0 ? preferredEntryIndex : p.entryIndex;
+    art = preferred !== false && preferred >= 0 ? preferred : p.imageIndex;
     const e = entries[current];
     $('manga-image').src = p.image.src;
     $('manga-image').alt = `${label(e)} — ${p.image.title}`;
     $('manga-under-image').src = p.image.src;
     $('manga-under-image').alt = '';
     $('manga-chapter').textContent = label(e).toUpperCase();
-    $('manga-title').textContent = e.title;
-    $('manga-position').textContent = `Página ${pageIndex + 1} de ${sequence.length} · ${label(e)} · ${art + 1}/${e.images.length}`;
+    $('manga-title').textContent = p.image.chapterNumbers?.length > 1 ? p.image.title : e.title;
+    $('manga-title').title = bookTitle(e) + ' · ' + p.image.title;
+    $('manga-position').textContent = `Página ${pageIndex + 1} de ${sequence.length} · ${p.image.chapterNumbers?.length > 1 ? 'Prancha dos capítulos ' + p.image.chapterNumbers.join(', ') : label(e)}`;
     updateNavigation();
     save();
     setHash();
@@ -249,14 +269,15 @@
     const e = entries[entryIndex];
     if (!e?.images?.length) return;
     sequence = pageSequence(entryIndex);
-    let found = sequence.findIndex(p => p.entryIndex === entryIndex && p.imageIndex === (entryIndex === current ? art : 0));
+    const selectedImage = e.images[entryIndex === current ? art : 0] || e.images[0];
+    let found = sequence.findIndex(p => p.image.src === selectedImage.src);
     if (found < 0) found = sequence.findIndex(p => p.entryIndex === entryIndex);
     pageIndex = Math.max(0, found);
     gesture = null;
     pointers.clear();
     setTurningState(false);
     resetView();
-    setPageSource();
+    setPageSource(entryIndex);
     if (!$('manga-dialog').open) $('manga-dialog').showModal();
     document.body.classList.add('dialog-open');
     requestAnimationFrame(() => $('manga-stage').focus({ preventScroll: true }));

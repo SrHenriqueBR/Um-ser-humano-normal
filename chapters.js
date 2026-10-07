@@ -1,4 +1,16 @@
-// Capítulos e artes originais. Variantes visuais preservadas.
+// Dados dos livros; artes compartilhadas preservadas integralmente.
+window.BOOKS = [
+  {
+    "id": 1,
+    "title": "Livro 1 · Um ser humano normal?",
+    "description": "A história de Henrique, do cotidiano ao extraordinário."
+  },
+  {
+    "id": 2,
+    "title": "Livro 2 · Continuação",
+    "description": "Hamiel, o Breu e os novos caminhos de Kaizen. Numeração original preservada."
+  }
+];
 window.BOOK_CHAPTERS = [
   {
     "id": "capitulo-2",
@@ -15,7 +27,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-3",
@@ -32,7 +45,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-4",
@@ -49,7 +63,8 @@ window.BOOK_CHAPTERS = [
         "width": 1199,
         "height": 1312
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-5",
@@ -66,7 +81,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-6",
@@ -89,7 +105,8 @@ window.BOOK_CHAPTERS = [
         "width": 1024,
         "height": 1536
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-7",
@@ -106,7 +123,8 @@ window.BOOK_CHAPTERS = [
         "width": 1024,
         "height": 1536
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-8",
@@ -123,7 +141,8 @@ window.BOOK_CHAPTERS = [
         "width": 1024,
         "height": 1536
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-9",
@@ -140,7 +159,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-10",
@@ -157,7 +177,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-11",
@@ -174,7 +195,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-12",
@@ -191,7 +213,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-13",
@@ -208,7 +231,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-14",
@@ -225,7 +249,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-15",
@@ -242,7 +267,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-17",
@@ -259,7 +285,8 @@ window.BOOK_CHAPTERS = [
         "width": 1375,
         "height": 1144
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-18",
@@ -276,7 +303,8 @@ window.BOOK_CHAPTERS = [
         "width": 1374,
         "height": 1145
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-19",
@@ -293,7 +321,8 @@ window.BOOK_CHAPTERS = [
         "width": 1144,
         "height": 1375
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-20",
@@ -310,7 +339,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-21",
@@ -327,7 +357,8 @@ window.BOOK_CHAPTERS = [
         "width": 1144,
         "height": 1375
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-22",
@@ -344,7 +375,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-23",
@@ -361,7 +393,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-24",
@@ -378,7 +411,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-25",
@@ -395,7 +429,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-26",
@@ -412,7 +447,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-27",
@@ -435,7 +471,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-28",
@@ -452,7 +489,8 @@ window.BOOK_CHAPTERS = [
         "width": 1145,
         "height": 1374
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-29",
@@ -469,7 +507,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-30",
@@ -486,7 +525,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-31",
@@ -503,7 +543,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-32",
@@ -520,7 +561,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-33",
@@ -537,7 +579,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-34",
@@ -560,7 +603,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-35",
@@ -577,7 +621,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-36",
@@ -594,7 +639,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-37",
@@ -611,7 +657,8 @@ window.BOOK_CHAPTERS = [
         "width": 1199,
         "height": 1312
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-38",
@@ -628,7 +675,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-39",
@@ -645,7 +693,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-40",
@@ -662,7 +711,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-41",
@@ -679,7 +729,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-42",
@@ -696,7 +747,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-43",
@@ -713,7 +765,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-44",
@@ -730,7 +783,8 @@ window.BOOK_CHAPTERS = [
         "width": 1024,
         "height": 1536
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-45",
@@ -747,7 +801,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-46",
@@ -764,7 +819,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-47",
@@ -781,7 +837,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-48",
@@ -798,7 +855,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-49",
@@ -815,7 +873,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-50",
@@ -832,7 +891,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-51",
@@ -849,7 +909,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-52",
@@ -866,7 +927,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-53",
@@ -883,7 +945,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-54",
@@ -900,7 +963,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-55",
@@ -917,7 +981,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-56",
@@ -934,7 +999,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-57",
@@ -951,7 +1017,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-58",
@@ -968,7 +1035,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-59",
@@ -991,7 +1059,8 @@ window.BOOK_CHAPTERS = [
         "width": 1374,
         "height": 1145
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-60",
@@ -1008,7 +1077,8 @@ window.BOOK_CHAPTERS = [
         "width": 1374,
         "height": 1145
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-61",
@@ -1025,7 +1095,8 @@ window.BOOK_CHAPTERS = [
         "width": 1374,
         "height": 1145
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-62",
@@ -1042,7 +1113,8 @@ window.BOOK_CHAPTERS = [
         "width": 1254,
         "height": 1254
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-63",
@@ -1059,7 +1131,8 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-64",
@@ -1076,7 +1149,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-65",
@@ -1093,7 +1167,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-66",
@@ -1110,7 +1185,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-67",
@@ -1133,7 +1209,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-68",
@@ -1150,7 +1227,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-69",
@@ -1167,7 +1245,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-70",
@@ -1184,7 +1263,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-71",
@@ -1201,7 +1281,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-72",
@@ -1218,7 +1299,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-73",
@@ -1235,7 +1317,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-74",
@@ -1252,7 +1335,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-75",
@@ -1269,7 +1353,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-76",
@@ -1292,7 +1377,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-77",
@@ -1309,7 +1395,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-78",
@@ -1326,7 +1413,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-79",
@@ -1343,7 +1431,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-80",
@@ -1360,7 +1449,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-81",
@@ -1377,7 +1467,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-82",
@@ -1394,7 +1485,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-83",
@@ -1411,7 +1503,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-84",
@@ -1428,7 +1521,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-85",
@@ -1457,7 +1551,8 @@ window.BOOK_CHAPTERS = [
         "width": 1310,
         "height": 1200
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-86",
@@ -1486,7 +1581,8 @@ window.BOOK_CHAPTERS = [
         "width": 1312,
         "height": 1199
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-87",
@@ -1563,7 +1659,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-88",
@@ -1580,7 +1677,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-89",
@@ -1597,7 +1695,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-90",
@@ -1614,7 +1713,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-91",
@@ -1631,7 +1731,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-92",
@@ -1648,7 +1749,8 @@ window.BOOK_CHAPTERS = [
         "width": 1491,
         "height": 1055
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-93",
@@ -1665,7 +1767,8 @@ window.BOOK_CHAPTERS = [
         "width": 1491,
         "height": 1055
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-94",
@@ -1682,7 +1785,8 @@ window.BOOK_CHAPTERS = [
         "width": 1491,
         "height": 1055
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-95",
@@ -1699,7 +1803,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-96",
@@ -1714,7 +1819,8 @@ window.BOOK_CHAPTERS = [
       "Por isso, explicou Ele, julgamento nunca poderia ser reduzido apenas a crença, ritual ou origem. Escolhas, contexto, intenção, capacidade de mudar e o modo como cada ser tratava os outros importavam. Até o Inferno possuía regiões de prova e transformação, não apenas punição. Kaizen ouviu tudo fazendo perguntas, discordando quando algo parecia simples demais e, em alguns momentos, arrancando risadas do próprio Altíssimo.",
       "O assunto voltou então ao poder. A manifestação de cinquenta e oito por cento de Kaizen havia sido sentida muito além daquele universo. O Vazio observara. Entidades distantes tinham percebido. Deus deixou claro que Kaizen precisaria aprender não apenas a liberar força, mas a conter, construir e liderar. O poder de criação existia como possibilidade futura, porém continuaria selado enquanto ele não entendesse o que significava fazer algo continuar existindo depois que sua mão se afastasse.",
       "Ao fim da conversa, Deus conduziu Kaizen até o Palácio Celestial. Milhares de presenças o observavam à distância. Kaizen olhou para a imensidão branca e dourada, ajeitou a roupa e suspirou. Deus apenas sorriu e disse: 'Agora você precisa aprender a ser celestial.' Henrique respondeu: 'Eu mal aprendi a ser humano direito.' E assim começou uma etapa completamente diferente de sua existência."
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-97",
@@ -1731,7 +1837,8 @@ window.BOOK_CHAPTERS = [
         "width": 1536,
         "height": 1024
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-98",
@@ -1756,7 +1863,8 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-99",
@@ -1777,7 +1885,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-100",
@@ -1799,7 +1908,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-101",
@@ -1821,7 +1931,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-102",
@@ -1843,7 +1954,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-103",
@@ -1865,7 +1977,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-104",
@@ -1887,7 +2000,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-105",
@@ -1909,7 +2023,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-106",
@@ -1931,7 +2046,8 @@ window.BOOK_CHAPTERS = [
         "width": 1448,
         "height": 1086
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-107",
@@ -1991,7 +2107,8 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-108",
@@ -2044,7 +2161,8 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-109",
@@ -2071,7 +2189,8 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "book": 1
   },
   {
     "id": "capitulo-110",
@@ -2103,10 +2222,1993 @@ window.BOOK_CHAPTERS = [
         "width": 1672,
         "height": 941
       }
+    ],
+    "book": 1
+  },
+  {
+    "id": "capitulo-111",
+    "number": 111,
+    "book": 2,
+    "title": "Os Dois Invocados",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-07.webp",
+        "title": "Colagem Fantástica: Os Dois Invocados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          111
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-01.webp",
+        "title": "Capítulo 111: Os Dois Invocados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          111
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-112",
+    "number": 112,
+    "book": 2,
+    "title": "O Fraco Que Não Sabia Ficar no Chão",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-02.webp",
+        "title": "Capítulos 112–114: Cicatrizes e Desafios",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          112,
+          113,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-113",
+    "number": 113,
+    "book": 2,
+    "title": "As Cicatrizes Que Não Aparecem nos Cristais",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-02.webp",
+        "title": "Capítulos 112–114: Cicatrizes e Desafios",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          112,
+          113,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-114",
+    "number": 114,
+    "book": 2,
+    "title": "Por Que a Chamam de Rainha Tirana",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-02.webp",
+        "title": "Capítulos 112–114: Cicatrizes e Desafios",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          112,
+          113,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-115",
+    "number": 115,
+    "book": 2,
+    "title": "O Homem Que os Cristais Não Conseguem Ler",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-08.webp",
+        "title": "Colagem de Mangá Fantasia em Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          115,
+          116,
+          117,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-116",
+    "number": 116,
+    "book": 2,
+    "title": "A Princesa Que Não Sabia Parar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-08.webp",
+        "title": "Colagem de Mangá Fantasia em Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          115,
+          116,
+          117,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-117",
+    "number": 117,
+    "book": 2,
+    "title": "A Cidade Sob a Coroa Vermelha",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-08.webp",
+        "title": "Colagem de Mangá Fantasia em Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          115,
+          116,
+          117,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-118",
+    "number": 118,
+    "book": 2,
+    "title": "O Tabuleiro de Hamiel",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-08.webp",
+        "title": "Colagem de Mangá Fantasia em Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          115,
+          116,
+          117,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-119",
+    "number": 119,
+    "book": 2,
+    "title": "O Homem Que Venceu Sem Lutar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-14.webp",
+        "title": "Crônicas de Hamiel: O Estrategista Classe F",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-120",
+    "number": 120,
+    "book": 2,
+    "title": "A Dançarina da Espada",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-14.webp",
+        "title": "Crônicas de Hamiel: O Estrategista Classe F",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-121",
+    "number": 121,
+    "book": 2,
+    "title": "O Primeiro Campo de Batalha",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-14.webp",
+        "title": "Crônicas de Hamiel: O Estrategista Classe F",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-122",
+    "number": 122,
+    "book": 2,
+    "title": "Doze Pontos",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-14.webp",
+        "title": "Crônicas de Hamiel: O Estrategista Classe F",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-123",
+    "number": 123,
+    "book": 2,
+    "title": "Matem o Classe F",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-19.webp",
+        "title": "O Caminho de Kaizen em Vana Ygradrasil",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          123,
+          124,
+          125,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-124",
+    "number": 124,
+    "book": 2,
+    "title": "O Preço de um Homem Sem Poder",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-19.webp",
+        "title": "O Caminho de Kaizen em Vana Ygradrasil",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          123,
+          124,
+          125,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-125",
+    "number": 125,
+    "book": 2,
+    "title": "A Estrada para El",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-19.webp",
+        "title": "O Caminho de Kaizen em Vana Ygradrasil",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          123,
+          124,
+          125,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-126",
+    "number": 126,
+    "book": 2,
+    "title": "A Floresta Que Escolhe",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-19.webp",
+        "title": "O Caminho de Kaizen em Vana Ygradrasil",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          123,
+          124,
+          125,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-127",
+    "number": 127,
+    "book": 2,
+    "title": "A Mãe de Todos os Espíritos",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-06.webp",
+        "title": "Cinco Anos no Breu Interior",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-128",
+    "number": 128,
+    "book": 2,
+    "title": "A Última Noite Antes do Breu",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-06.webp",
+        "title": "Cinco Anos no Breu Interior",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-129",
+    "number": 129,
+    "book": 2,
+    "title": "Onde o Tempo Não Existe",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-06.webp",
+        "title": "Cinco Anos no Breu Interior",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-130",
+    "number": 130,
+    "book": 2,
+    "title": "A Porta Sobre a Porta",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-06.webp",
+        "title": "Cinco Anos no Breu Interior",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-131",
+    "number": 131,
+    "book": 2,
+    "title": "Aprenda a Ser Fraco",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-06.webp",
+        "title": "Cinco Anos no Breu Interior",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-132",
+    "number": 132,
+    "book": 2,
+    "title": "A Cidade Que Morreu em um Suspiro",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-133",
+    "number": 133,
+    "book": 2,
+    "title": "O Filho e o Pai",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-134",
+    "number": 134,
+    "book": 2,
+    "title": "Por Que Você?",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-15.webp",
+        "title": "Kaizen e Arcaceus: O Vazio Entre Mundos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-135",
+    "number": 135,
+    "book": 2,
+    "title": "O Mundo Que Não Podia Saber Que Ele Existia",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-136",
+    "number": 136,
+    "book": 2,
+    "title": "Destruir É a Parte Fácil",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-137",
+    "number": 137,
+    "book": 2,
+    "title": "A Sombra e a Alma",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-138",
+    "number": 138,
+    "book": 2,
+    "title": "Luz e Escuridão",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-139",
+    "number": 139,
+    "book": 2,
+    "title": "Como Criar um Universo",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-140",
+    "number": 140,
+    "book": 2,
+    "title": "O Poder Não É Bom Nem Mau",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-16.webp",
+        "title": "Kaizen: Luz, Sombra e Multiverso",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-141",
+    "number": 141,
+    "book": 2,
+    "title": "As Pirralhas do Primeiro Filho",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-00.webp",
+        "title": "As Pirralhas do Primeiro Filho",
+        "width": 1491,
+        "height": 1055,
+        "chapterNumbers": [
+          141
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-142",
+    "number": 142,
+    "book": 2,
+    "title": "Duas Professoras e um Aluno Arrependido",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-143",
+    "number": 143,
+    "book": 2,
+    "title": "Toque uma Flor",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-144",
+    "number": 144,
+    "book": 2,
+    "title": "A Sombra Não É o Inimigo",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-145",
+    "number": 145,
+    "book": 2,
+    "title": "O Primeiro Multiverso",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-146",
+    "number": 146,
+    "book": 2,
+    "title": "O Corpo no Vazio",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-147",
+    "number": 147,
+    "book": 2,
+    "title": "A Última Lição",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-20.webp",
+        "title": "Treinamento Cósmico e Despedidas",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          142,
+          143,
+          144,
+          141,
+          145,
+          146,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-149",
+    "number": 149,
+    "book": 2,
+    "title": "Dois Anos Sem Kaizen",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-11.webp",
+        "title": "Colagem de Mangá: Heróis de Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-04.webp",
+        "title": "Capítulos de Hamiel: A Princesa-Regente",
+        "width": 1448,
+        "height": 1086,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-150",
+    "number": 150,
+    "book": 2,
+    "title": "A Princesa-Regente",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-11.webp",
+        "title": "Colagem de Mangá: Heróis de Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-04.webp",
+        "title": "Capítulos de Hamiel: A Princesa-Regente",
+        "width": 1448,
+        "height": 1086,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-151",
+    "number": 151,
+    "book": 2,
+    "title": "O Herói Que Lutava Atrás de Todo Mundo",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-11.webp",
+        "title": "Colagem de Mangá: Heróis de Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-04.webp",
+        "title": "Capítulos de Hamiel: A Princesa-Regente",
+        "width": 1448,
+        "height": 1086,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-152",
+    "number": 152,
+    "book": 2,
+    "title": "Como Fazer um Príncipe Virar Soldado",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-11.webp",
+        "title": "Colagem de Mangá: Heróis de Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-04.webp",
+        "title": "Capítulos de Hamiel: A Princesa-Regente",
+        "width": 1448,
+        "height": 1086,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-153",
+    "number": 153,
+    "book": 2,
+    "title": "A Quase Rainha de Hamiel",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-11.webp",
+        "title": "Colagem de Mangá: Heróis de Hamiel",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-04.webp",
+        "title": "Capítulos de Hamiel: A Princesa-Regente",
+        "width": 1448,
+        "height": 1086,
+        "chapterNumbers": [
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-154",
+    "number": 154,
+    "book": 2,
+    "title": "A Cadeira Vazia",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-155",
+    "number": 155,
+    "book": 2,
+    "title": "A Elfa Que Continuou Esperando",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-156",
+    "number": 156,
+    "book": 2,
+    "title": "Sonhos de uma Vida Que Não Era Dela",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-159",
+    "number": 159,
+    "book": 2,
+    "title": "O Quinto Ano",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-12.webp",
+        "title": "Colagem Épica: Cinco Anos de Saudade",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          154,
+          155,
+          156,
+          151,
+          152,
+          153,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-160",
+    "number": 160,
+    "book": 2,
+    "title": "A Folha Que Parou de Pulsar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-161",
+    "number": 161,
+    "book": 2,
+    "title": "Cartas para um Homem Que Não Responde",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-162",
+    "number": 162,
+    "book": 2,
+    "title": "O Casamento Que o Reino Queria",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-163",
+    "number": 163,
+    "book": 2,
+    "title": "A Mulher dos Cabelos Negros",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-164",
+    "number": 164,
+    "book": 2,
+    "title": "A Espada Que Ele Deixou",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-165",
+    "number": 165,
+    "book": 2,
+    "title": "Quase",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-03.webp",
+        "title": "Capítulos 160–165: Cartas e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          160,
+          161,
+          162,
+          163,
+          164,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-166",
+    "number": 166,
+    "book": 2,
+    "title": "O Homem Que o Palácio Não Quis Esquecer",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-05.webp",
+        "title": "Capítulos de Hamiel: Memórias e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-167",
+    "number": 167,
+    "book": 2,
+    "title": "O Dia dos Que Não Voltaram",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-05.webp",
+        "title": "Capítulos de Hamiel: Memórias e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-168",
+    "number": 168,
+    "book": 2,
+    "title": "Quando o Leão Não Conseguiu Levantar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-05.webp",
+        "title": "Capítulos de Hamiel: Memórias e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-169",
+    "number": 169,
+    "book": 2,
+    "title": "Um Reino Sem Rei por Três Dias",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-05.webp",
+        "title": "Capítulos de Hamiel: Memórias e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-170",
+    "number": 170,
+    "book": 2,
+    "title": "Nenhum Sinal",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-05.webp",
+        "title": "Capítulos de Hamiel: Memórias e Esperança",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-171",
+    "number": 171,
+    "book": 2,
+    "title": "Os Lugares Que Eu Ainda Quero Te Mostrar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-13.webp",
+        "title": "Crônicas de Elisabeth e as Princesas Dragonoides",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          171,
+          172,
+          173,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-172",
+    "number": 172,
+    "book": 2,
+    "title": "Os Filhos Que o Mundo Chamou de Monstros",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-13.webp",
+        "title": "Crônicas de Elisabeth e as Princesas Dragonoides",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          171,
+          172,
+          173,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-173",
+    "number": 173,
+    "book": 2,
+    "title": "A Menina da Cauda Listrada",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-13.webp",
+        "title": "Crônicas de Elisabeth e as Princesas Dragonoides",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          171,
+          172,
+          173,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-174",
+    "number": 174,
+    "book": 2,
+    "title": "Sangue de Dragão",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-13.webp",
+        "title": "Crônicas de Elisabeth e as Princesas Dragonoides",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          171,
+          172,
+          173,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-175",
+    "number": 175,
+    "book": 2,
+    "title": "A Lei dos Pequenos Leões",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-18.webp",
+        "title": "Montagem Épica de Fantasia em Quadrinhos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          175,
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-176",
+    "number": 176,
+    "book": 2,
+    "title": "A Menina Que Não Queria Ser Escolhida",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-18.webp",
+        "title": "Montagem Épica de Fantasia em Quadrinhos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          175,
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-177",
+    "number": 177,
+    "book": 2,
+    "title": "O Bairro das Cinzas",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-18.webp",
+        "title": "Montagem Épica de Fantasia em Quadrinhos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          175,
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-178",
+    "number": 178,
+    "book": 2,
+    "title": "Sangue de Dragão",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-18.webp",
+        "title": "Montagem Épica de Fantasia em Quadrinhos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          175,
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-179",
+    "number": 179,
+    "book": 2,
+    "title": "Um Pai para Quem Ainda Não Voltou",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-18.webp",
+        "title": "Montagem Épica de Fantasia em Quadrinhos",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          175,
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-180",
+    "number": 180,
+    "book": 2,
+    "title": "Três Meses para Chamar de Lar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-17.webp",
+        "title": "Montagem de Capítulos Fantásticos em Mangá",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-181",
+    "number": 181,
+    "book": 2,
+    "title": "A Mulher Que Não Conseguia Dormir",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-17.webp",
+        "title": "Montagem de Capítulos Fantásticos em Mangá",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-182",
+    "number": 182,
+    "book": 2,
+    "title": "A Estrada Sem Bandeira",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-17.webp",
+        "title": "Montagem de Capítulos Fantásticos em Mangá",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-183",
+    "number": 183,
+    "book": 2,
+    "title": "Elfa Demoníaca",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-17.webp",
+        "title": "Montagem de Capítulos Fantásticos em Mangá",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-184",
+    "number": 184,
+    "book": 2,
+    "title": "A Coisa Mais Difícil de Criar",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-17.webp",
+        "title": "Montagem de Capítulos Fantásticos em Mangá",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-185",
+    "number": 185,
+    "book": 2,
+    "title": "O Nome Que Não Estava nos Registros",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-186",
+    "number": 186,
+    "book": 2,
+    "title": "A Fita Que Ela Não Amarrou",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-187",
+    "number": 187,
+    "book": 2,
+    "title": "A Espada de El",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-188",
+    "number": 188,
+    "book": 2,
+    "title": "O Último Rei Antes da Rainha",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-189",
+    "number": 189,
+    "book": 2,
+    "title": "A Primeira Noite Sem Correntes",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      },
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-190",
+    "number": 190,
+    "book": 2,
+    "title": "Uma Estrela Que Não Precisava de Ajuda",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-10.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-191",
+    "number": 191,
+    "book": 2,
+    "title": "A Menina Que Não Sabia para Onde Ir",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capitulo-195",
+    "number": 195,
+    "book": 2,
+    "title": "A Pergunta Que Arcaceus Não Queria Responder",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "assets/chapters/update-20261007-09.webp",
+        "title": "Colagem de Mangá: Destinos Entrelaçados(1)",
+        "width": 1536,
+        "height": 1024,
+        "chapterNumbers": [
+          191,
+          186,
+          187,
+          188,
+          189,
+          195
+        ]
+      }
     ]
   }
 ];
-
 window.BOOK_EXTRAS = [
   {
     "id": "extra-12",
