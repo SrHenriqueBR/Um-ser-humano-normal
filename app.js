@@ -178,17 +178,16 @@
     #manga-top-next{border-color:#d9b87d66!important;color:#d9b87d!important}
     .manga-edge{opacity:.82!important;pointer-events:auto!important;font-weight:700}
     .manga-edge:disabled{opacity:.15!important;pointer-events:none!important}
-    .manga-stage.is-zoomed .manga-edge{opacity:0!important;pointer-events:none!important}
+    .manga-stage.is-zoomed .manga-edge{opacity:.82!important;pointer-events:auto!important}
     .manga-corner{position:absolute;width:60px;height:60px;z-index:11;pointer-events:none;opacity:.28}
     .manga-corner:before{content:'';position:absolute;inset:0;border:2px solid #d9b87d88;border-right:0;border-bottom:0}
     .ctl{top:8px;left:8px}.ctr{top:8px;right:8px;transform:scaleX(-1)}.cbl{bottom:8px;left:8px;transform:scaleY(-1)}.cbr{bottom:8px;right:8px;transform:scale(-1)}
     .manga-stage.is-zoomed .manga-corner{display:none}
-    .manga-shell:fullscreen,.manga-shell.cinema{position:fixed;inset:0;width:100vw;height:100dvh;display:block;background:#030406;z-index:2147483647}
-    .manga-shell:fullscreen .manga-stage,.manga-shell.cinema .manga-stage{position:absolute;inset:0}
-    .manga-shell:fullscreen .manga-book,.manga-shell.cinema .manga-book{width:100vw;height:100dvh;max-height:100dvh;padding:64px 45px 48px}
-    .manga-shell:fullscreen .manga-topbar,.manga-shell.cinema .manga-topbar{position:absolute;inset:0 0 auto;z-index:30;background:linear-gradient(#05070aee,#05070aaa,transparent);border:0}
-    .manga-shell:fullscreen .manga-bottombar,.manga-shell.cinema .manga-bottombar{position:absolute;inset:auto 0 0;z-index:30;background:linear-gradient(transparent,#05070aaa,#05070aee);border:0}
-    @media(max-width:800px){#manga-fullscreen{display:inline-flex!important;font-size:0}#manga-fullscreen:after{content:'⛶';font-size:18px}#manga-top-next{font-size:0}#manga-top-next:after{content:'→';font-size:18px}.manga-edge{bottom:54px!important;top:auto!important;transform:none!important}.manga-shell:fullscreen .manga-book,.manga-shell.cinema .manga-book{padding:54px 8px 40px}}
+    .manga-shell:fullscreen,.manga-shell.cinema{position:fixed;inset:0;width:100vw;height:100dvh;display:grid;grid-template-rows:auto minmax(0,1fr) auto;background:#030406;z-index:2147483647}
+    .manga-shell:fullscreen .manga-stage,.manga-shell.cinema .manga-stage{position:relative;inset:auto;min-width:0;min-height:0}
+    .manga-shell:fullscreen .manga-book,.manga-shell.cinema .manga-book{width:100%;height:100%;max-height:none;padding:0}
+    @media(max-width:800px){#manga-fullscreen{display:inline-flex!important;font-size:0}#manga-fullscreen:after{content:'⛶';font-size:18px}#manga-top-next{font-size:0}#manga-top-next:after{content:'→';font-size:18px}.manga-edge{bottom:8px!important;top:auto!important;transform:none!important}}
+
   `;
   document.head.append(injected);
 
@@ -252,15 +251,23 @@
     const pct = Math.round(zoom * 100);
     $('manga-zoom').value = String(pct);
     $('manga-zoom-label').textContent = pct + '%';
-    $('manga-zoom-reset').textContent = pct + '%';
+    $('manga-zoom-reset').textContent = 'Ajustar';
+    $('manga-zoom-reset').title = 'Mostrar imagem inteira (100% da área disponível)';
     const canTurn = zoom <= 1.15;
     $('manga-stage').classList.toggle('can-turn', canTurn);
     $('manga-stage').classList.toggle('is-zoomed', !canTurn);
-    $('manga-pan-hint').textContent = canTurn ? 'Puxe um canto, arraste para o lado ou clique em Próxima página.' : 'Zoom ativo · arraste a imagem. Volte perto de 100% para virar a página.';
+    $('manga-pan-hint').textContent = 'Roda do mouse: zoom · arraste para mover · Ajustar: imagem inteira · setas: próxima/anterior';
   }
-  function setZoom(value) {
-    zoom = Math.max(1, Math.min(3, value));
-    if (zoom <= 1.05) panX = panY = 0;
+  function setZoom(value, clientX, clientY) {
+    if (turning) return;
+    const next = Math.max(.25, Math.min(4, value));
+    const rect = $('manga-stage').getBoundingClientRect();
+    const x = Number.isFinite(clientX) ? clientX - rect.left - rect.width / 2 : 0;
+    const y = Number.isFinite(clientY) ? clientY - rect.top - rect.height / 2 : 0;
+    const ratio = next / zoom;
+    panX = x - (x - panX) * ratio;
+    panY = y - (y - panY) * ratio;
+    zoom = next;
     applyTransform();
   }
   function resetView() { zoom = 1; panX = panY = 0; applyTransform(); }
@@ -297,7 +304,7 @@
   }
 
   async function turnPage(delta, fromDrag = false) {
-    if (turning || zoom > 1.15) return;
+    if (turning) return;
     const target = pageAt(delta);
     if (!target) return;
     const serial = ++turnSerial;
@@ -360,7 +367,7 @@
       return;
     }
 
-    if (zoom > 1.05) {
+    if (e.pointerType !== 'touch' || zoom > 1.05) {
       gesture = { type: 'pan', id: e.pointerId, startX: e.clientX, startY: e.clientY, startPanX: panX, startPanY: panY };
       return;
     }
@@ -447,16 +454,17 @@
   $('manga-prev').addEventListener('click', e => { e.stopPropagation(); turnPage(-1); });
   $('manga-next').addEventListener('click', e => { e.stopPropagation(); turnPage(1); });
   topNext.addEventListener('click', e => { e.stopPropagation(); turnPage(1); });
-  $('manga-zoom-out').addEventListener('click', () => setZoom(zoom - .25));
-  $('manga-zoom-in').addEventListener('click', () => setZoom(zoom + .25));
+  $('manga-zoom-out').addEventListener('click', () => setZoom(zoom - .1));
+  $('manga-zoom-in').addEventListener('click', () => setZoom(zoom + .1));
   $('manga-zoom-reset').addEventListener('click', resetView);
   $('manga-zoom').addEventListener('input', () => setZoom(Number($('manga-zoom').value) / 100));
   $('manga-stage').addEventListener('wheel', e => {
-    if (e.ctrlKey || e.metaKey) { e.preventDefault(); setZoom(zoom + (e.deltaY < 0 ? .1 : -.1)); }
+    e.preventDefault();
+    if (!turning && e.deltaY) setZoom(zoom * Math.exp(-Math.max(-100, Math.min(100, e.deltaY)) * .002), e.clientX, e.clientY);
   }, { passive: false });
   $('manga-stage').addEventListener('dblclick', e => {
     if (e.target.closest('button,input') || turning) return;
-    setZoom(zoom > 1.15 ? 1 : 2);
+    if (zoom > 1.15) resetView(); else setZoom(2, e.clientX, e.clientY);
   });
 
   $('manga-close').addEventListener('click', () => $('manga-dialog').close());
@@ -485,13 +493,14 @@
 
   $('manga-dialog').addEventListener('keydown', e => {
     if (e.repeat || turning) return;
-    if (e.key === 'ArrowRight' && zoom <= 1.15) { e.preventDefault(); turnPage(1); }
-    else if (e.key === 'ArrowLeft' && zoom <= 1.15) { e.preventDefault(); turnPage(-1); }
-    else if (e.key === '+' || e.key === '=') { e.preventDefault(); setZoom(zoom + .25); }
-    else if (e.key === '-') { e.preventDefault(); setZoom(zoom - .25); }
+    if (e.key === 'ArrowRight') { e.preventDefault(); turnPage(1); }
+    else if (e.key === 'ArrowLeft') { e.preventDefault(); turnPage(-1); }
+    else if (e.key === '+' || e.key === '=') { e.preventDefault(); setZoom(zoom + .1); }
+    else if (e.key === '-') { e.preventDefault(); setZoom(zoom - .1); }
     else if (e.key === '0') { e.preventDefault(); resetView(); }
   });
 
+  window.addEventListener('resize', () => { if ($('manga-dialog').open) resetView(); });
   const hashId = location.hash.startsWith('#ler/') ? location.hash.slice(5) : null;
   if (hashId) {
     const found = entries.findIndex(e => e.id === hashId);
@@ -499,3 +508,4 @@
   }
   renderStory();
 })();
+
